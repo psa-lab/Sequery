@@ -222,3 +222,41 @@ Other references related to the use of Sequery include the following:
 ## More Information
 
 Scientific inquries concerning Sequery should be directed to Leslie Kuhn at: kuhnlab@msu.edu
+
+## Additional Sequery PDB sequence files
+
+Additional Sequery PDB sequence files are included in the [additional_sequence_files](additional_sequence_files) subdirectory.
+
+### 4,304 non-homologous protein chains
+
+Filename: [additional_sequence_files/cullpdb_pc20_res2.0_R0_25col_4304_chains.txt](additional_sequence_files/cullpdb_pc20_res2.0_R0_25col_4304_chains.txt)
+
+This sequence file contains 4,304 chains from the PDB with pairwise less than 20% sequence identify, resolution of .le. 2.0 Angstroms, and R-factor of .le. 0.25 (starting from a culled PDB list from [Roland Dunbrack's PISCES server](http://dunbrack.fccc.edu/Guoli/PISCES_OptionPage.php)).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Below is a typical Here is a sample line from my own use of sequery
+
+
+
+/psa/share/sequery/bin/sequery-32bit-exe -s /home/kuhn/dehom/cullpdb_pc20_res2.0_R0_25col_4304_chains.txt -w ./wilddef.dat
+
+.  The -s flag denotes the PDB sequence file to be searched for user-specified patterns; it contains many chains from the PDB.  It is in a specific format that can be written for any user-defined set of PDB files to search, too (via genpdbseq*).  The one I have attached, which should be included in the distribution with a little documentation, is a good default set to search.  
+
+
