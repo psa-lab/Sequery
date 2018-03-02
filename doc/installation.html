@@ -1,0 +1,284 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Sequery Information &amp; Documentation -- Installation</TITLE>
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.0Gold (X11; I; SunOS 5.5.1 sun4m) [Netscape]">
+</HEAD>
+<BODY TEXT="#330000" BGCOLOR="#FFF8DC" LINK="#CC0000" VLINK="#DC143C" ALINK="#DC143C">
+
+<P><A NAME="TOC"></A></P>
+
+    <H1 ALIGN=CENTER>Installing <i>Sequery</i></H1>
+
+<CENTER><P><I>A tool to find sequence pattern matches in the Protein
+	  Data Bank (PDB) database of protein structures.</I> </P></CENTER>
+
+<hr size=5>
+
+<OL>
+<LI><A HREF="#Intro">Introduction</A></LI>
+
+<LI><A HREF="#Install">Getting and Installing <I>Sequery</I></A></LI>
+
+<UL>
+<LI><A HREF="#Shells">Troubleshooting Shell Scripts</A></LI>
+</UL>
+
+<LI><A HREF="#Tools">Other Scripts and Tools Provided with <I>Sequery</I></A></LI>
+
+<LI><A HREF="#Det">Algorithmic Details of <I>Sequery</I></A></LI>
+
+<LI><A HREF="#Contact">Contact Information</A></LI>
+</OL>
+
+<hr size=5>
+
+<H2><A NAME="Intro"></A>Introduction</H2>
+
+<P><I>Sequery</i> is a tool to search the sequences of the protein
+   structures in the <a href="http://www.pdb.bnl.gov">Protein Data
+   Bank</a> (PDB) for a particular pattern of residues, which may
+   include exact matches and acceptable substitutions based on a
+   user-specified amino acid substitution matrix and/or a numerical
+   threshold. <I>Sequery</i> was developed by Michael E. Pique,
+   Michael A. Siani, Leslie A. Kuhn, Elizabeth D. Getzoff, and John
+   A. Tainer, <A href="http://www.scripps.edu/mb">Department of
+   Molecular Biology</a>, <A href="http://www.scripps.edu">The Scripps
+   Research Institute</a> and is distributed here with permission of
+   the authors. Development of <I>Sequery</i> was supported in part by
+   NSF grant BIR9631436.</P>
+
+
+<P>A useful complement to <I>Sequery</i> is <I>SSA</i>
+   (Superpositional Structure Assignment), which automates the
+   assignment of secondary structure to tetrapeptides identified by a
+   <I>Sequery</i> search. For more information and software
+   availability, see <A href="../ssa/doc.html"><I>SSA</i> Information and
+   Documentation</a>.</P>
+
+<P>For literature references related to <I>Sequery</I>, please see the
+      section on <A HREF="#Det">Algorithmic Details</A>.</P>
+
+<P>Usage information for <I>Sequery</i> can be found in <a
+	href="use.html">Using <i>Sequery</i></a></P>
+
+<P><A HREF="#TOC">Back
+to Table of Contents</A></P>
+
+<hr size=5>
+
+<H2><A NAME="Install"></A>Getting and Installing <I>Sequery</I></H2>
+
+<P><I>Sequery</i> will work on any UNIX system with a C-compiler and
+has been tested on Sun hardware running Solaris and SGI hardware
+running Irix. Additional scripts require awk, C-shell (csh) and
+Bourne-shells (sh) installed, as well as an accessible copy of the
+Protein Data Bank.</P>
+
+<P>The latest version of <I>Sequery</I>, as well as the most recent
+      version of this documentation, can be found at the home page for
+      the <A
+      HREF="http://www.bch.msu.edu/labs/kuhn/index.html">Protein
+      Structural Analysis and Design Laboratory</A>, <A
+      HREF="http://www.bch.msu.edu/">Department of Biochemistry,
+      Michigan State University</A>, and is distributed here with
+      permission of the co-authors at The Scripps Research Institute,
+      Michael Pique, Elizabeth Getzoff, and John Tainer. To install
+      <I>Sequery</I>, perform the following steps:</P>
+
+<UL>
+<LI>Download <A
+	  HREF="http://www.bch.msu.edu/labs/kuhn/web/software/sequery/sequery.tar.Z">sequery.tar.Z
+	  </A></LI>	 
+
+<LI>Place this file in the directory into which you wish to install the
+	software, and enter the following command:</LI>
+
+<UL>
+<P><TT>zcat sequery.tar.Z | tar xvf -</TT></P>
+</UL>
+
+<LI>To compile the software, type the following command from the directory
+      in which <I>Sequery</I> was unpacked:</LI>
+
+<UL>
+<LI><TT>make install</TT><BR> 
+    (Note: This defaults to using the current directory as the root
+    directory for <I>Sequery</i>. If this is not desired, alter the
+    makefile to include the desired location where noted in the
+    makefile. Also, if <I>Sequery</i> is later moved from this
+    location, it will need to be recompiled to work correctly.)
+</UL>
+<P>
+      <LI>There are a few additional modifications that must be made
+	in some of the scripts in <tt>sequery/share</tt> to point to
+	the correct file and directory locations. These locations will
+	be specific to your system. All settings are at
+	the top of the script code. The scripts and variable settings
+	needed are as follows:<P>
+	<table border=1 cellpadding=5>
+	  <tr>
+	    <th valign=top>Script Name</th>
+	    <th valign=top>Variable to Set at the<BR>
+      top of the script</th>
+	  </tr>
+	  <tr>
+	    <td valign=top><tt>addname</tt></td>
+	    <td valign=top><tt>PDBHOME</tt></td>
+	  </tr>
+	  <tr>
+	    <td valign=top><tt>genpdbselectseq</tt></td>
+	    <td valign=top><tt>PDBHOME</tt><br>
+	      <tt>SEQUERY_HOME</tt></td>
+	  </tr>
+	  <tr>
+	    <td valign=top><tt>minipdbextract</tt></td>
+	    <td valign=top><tt>PDBHOME</tt></td>
+	  </tr>
+      </table><P>
+	The <tt>PDBHOME</tt> variable should be set to the
+	directory of the Protein Data Bank files (e.g. /usr/pdb)<br>
+	The <tt>SEQUERY_HOME</tt> variable should be set to
+	the directory in which <i>Sequery</i> was installed
+	(e.g. /usr/bin/sequery)
+
+
+</UL>
+
+<P><A HREF="#TOC">Back
+to Table of Contents</A></P>
+
+<hr size=5>
+
+<H3><A NAME="Shells"></A>Troubleshooting Shell Scripts</H3>
+
+<P>Located in the <TT>Sequery/share</tt> directory are several shell
+      scripts, all of which assume the C-shell and Bourne-shell are
+      installed in the standard locations, which are <tt>/bin/csh</tt>
+      and <tt>/bin/sh</tt>. If you have difficulty
+      running one or more of these scripts, you may edit the first
+      line of each script to point to the correct shell location for
+      your system. <I>Sequery</I> scripts which are dependent on shell
+      locations include:</P>
+ 
+<TABLE BORDER=1 CELLSPACING=0 CELLPADDING=4 >
+<TR>
+<TH>Script</TH><TH>Shell</TH>
+</TR>
+ 
+<TR>
+<TD><TT>addname</TT></TD><TD><TT>/bin/sh</TT></TD>
+</TR>
+ 
+<TR>
+<TD><TT>genpdbselectseq</TT></TD><TD><TT>/bin/sh</TT></TD>
+</TR>
+
+<TR>
+<TD><TT>genpdbseq</TT></TD><TD><TT>/bin/sh</TT></TD>
+</TR>
+
+<TR>
+<TD><TT>minipdbextract</TT></TD><TD><TT>/bin/csh</TT></TD>
+</TR>
+
+</TABLE>
+
+<P>Additionally, these scripts assume you have <TT>awk</tt>,
+   <TT>nawk</tt>, or <TT>gawk</tt> (different implementations of a
+   simple column- or field-oriented programming language) running on
+   your system. (See <A href="http://www.gnu.org/">The Free Software
+   Foundation (GNU) web site</a> for more information on
+   obtaining and using <TT>gawk</tt>.)
+
+<P><A HREF="#TOC">Back
+to Table of Contents</A></P>
+
+<hr size=5>
+
+<H2><A NAME="Tools"></A>Other Scripts and Tools Provided with
+<I>Sequery</I></H2>
+    Included in the <tt>sequery/share</tt> directory are a few
+    additional tools that may be of use and are described below. These
+    scripts must be modified upon installation to point to the correct
+    directories. See <A href="#Install">Getting and Installing
+      <I>Sequery</i></a> above for more information. Further
+    information on their use can be found in <a
+      href="use.html#Tools">Using <i>Sequery</i></a>
+<UL>
+
+      <LI>addname -- adds protein name from the PDB file to end of
+	<I>Sequery</i> output line. Output to stdout. This is useful
+        for noting functional patterns in the proteins that match.<P>
+      <LI>genpdbselectseq -- generates a sequence file which contains
+	the amino acid sequences along with PDB codes, and chain IDs
+	and which is used by <I>Sequery</i> to search for pattern
+	matches, for each of the PDB files in the PDB Select list.<P>
+      <LI>genpdbseq -- generates a sequence file as a <I>Sequery</i>
+	search database from a
+	PDB file or series of PDB files. Output is directed to stdout.<P>
+      <LI>minipdbextract -- generates a PDB formatted file for the
+	residues in each line of <i>Sequery</i> output. It takes the
+	start residue, end residue, and pdbcode from <tt>Sequery</tt>
+	output, searches the <tt>$PDBHOME</tt> database for that
+	protein, and extracts coordinate lines from the PDB files.<P>
+
+</ul>
+
+<P><A HREF="#TOC">Back
+to Table of Contents</A></P>
+
+<hr size=5>
+
+<H2><A NAME="Det"></A>Algorithmic Details of <I>Sequery</I></H2>
+
+    <P><I>Sequery</i> was developed as a successor to <I>Searchwild</i>,
+      which is described in</P>
+    
+    <P>Collawn JF, Kuhn LA, Liu LF, Tainer JA, Trowbridge IS<BR>
+      <STRONG>Transplanted LDL and mannose-6-phosphate receptor
+	internalization signals promote high-efficiency endocytosis of
+	the transferrin receptor</strong><BR>
+      <I>EMBO J.</i>, <B>10(11)</b> (Nov): 3247-3253 (1991)</P>
+    
+    <P>Collawn JF, Stangel M, Kuhn LA, Esekogwu V, Jing SQ, Trowbridge
+      IS, Tainer JA<BR>
+      <STRONG>Transferrin receptor internalization sequence YXRF
+	implicates a tight turn as the structural recognition motif
+	for endocytosis</strong><br>
+      <I>Cell</I>, <B>63(5)</b> (Nov 30): 1061-1072 (1990)</P>
+
+    <P>Other references related to the use of <I>Sequery</i> include the
+      following:</P>
+
+    <P>Craig L, Sanschagrin PC, Rozek A, Lackie S, Kuhn LA, Scott JK<BR>
+      <A HREF="../abstracts/jmb_antibody.html">
+	<STRONG>The Role of Structure in Antibody Cross-Reactivity Between
+	  Peptides and Folded Proteins</STRONG></A><BR>
+      <I>J. Mol. Biol.</i>, <B>281(1)</b> (Aug 7): 183-201 (1998)</P>
+
+    <P>Chang CP, Lazar CS, Walsh BJ, Komuro M, Collawn JF, Kuhn LA,
+      Tainer JA, Trowbridge IS, Farquhar MG, Rosenfeld MG<BR>
+      <STRONG>Ligand-induced internalization of the epidermal growth
+	factor receptor is mediated by multiple endocytic codes
+	analogous to the tyrosine motif found in constitutively
+	internalized receptors</strong><BR>
+      <I>J. Biol. Chem.</i>, <B>268(26)</b> (Sep 15): 19312-19320
+      (1993)</P>
+
+<P><A HREF="#TOC">Back
+to Table of Contents</A></P>
+
+<hr size=5>
+
+<H2><A NAME="Contact"></A>Contact Information</H2>
+
+<P>Questions should be directed to Dr. Leslie Kuhn at:
+<ADDRESS><A
+	HREF="mailto:kuhn@agua.bch.msu.edu">kuhn@agua.bch.msu.edu</A></ADDRESS><P> 
+or to Michael Pique at:
+<address><a href="mailto:mp@scripps.edu">mp@scripps.edu</a></address>
+</OL>
+
+</BODY>
+</HTML>

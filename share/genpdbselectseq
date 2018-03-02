@@ -1,0 +1,133 @@
+#!/bin/sh
+#
+# The first part of this script processes a PDB_SELECT file, and builds
+# a list of pdb-codes and chain-id's.  This list is then used as the input
+# to AWK in the last part of the script.  For each pdb-code/chain-id pair,
+# the genpdbselectseq.awk script is called.
+#
+# Most of the work in this script is done to simply convert all the pdb
+# codes to lower case, fully-qualified path names, and all the chain ID's
+# to upper case.
+#
+# See genpdbselectseq.awk for further details.
+# PDB_select files of Protein Data Bank chains with < 25% sequence identity
+# are available from http://swift.embl-heidelberg.de/pdbsel/
+#
+# Script developed by Michael Raymer and Leslie Kuhn 
+#                     Dept. of Biochemistry, Michigan State University
+#                     9/3/96 
+#
+
+# ***** CHANGE THESE FOLLOWING LINES TO THE CORRECT LOCATIONS *****
+PDBHOME="/psa/pdb"
+SEQUERY_HOME="/home/sanschag/tempssa/sequerydist/"
+# *****************************************************************
+
+# Check the usage:
+if [ $# -ne 2 ]
+then
+  echo "Usage: $0 pdb-select-list-file output-file"
+  exit
+fi
+
+# Get the command line parameters
+selfile=$1
+outfile=$2
+
+# The logfile is the same name as the output file with .log appended
+logfile="${2}.log"
+
+# Make sure the pdb_select file exists:
+if [ ! -f $selfile ]
+then
+  echo "$selfile not found."
+  echo "Usage: $0 pdb-select-list-file output-file"
+  exit
+fi
+
+# Let the user know the program is indeed running
+echo ""
+echo "Running on $selfile"
+echo "Run details in $logfile"
+echo ""
+
+# Clean up from any previous runs
+if [ -f genpdbtemp ]
+then
+  /bin/rm -f genpdbtemp*
+fi
+
+# Record the salient data into the logfile
+tstring=`date`
+username=`whoami`
+machine=`hostname`
+ustring="${username}@${machine}"
+echo "$logfile -- created by $0" >> $logfile
+echo "Executed by $ustring at $tstring" >> $logfile
+echo "Output file: $outfile" >> $logfile
+echo "" >> $logfile
+
+# Build the listfile for later use as input to AWK:
+# ------------------------------------------------
+nawk '
+BEGIN {
+  outfile = "genpdbtemp.1"
+}
+
+# Process only lines that start with some whitespace, the number
+# 25, and then more whitespace...
+/^[ \t]*25[ \t]*[0-9a-zA-Z]/ {
+    pdbcode = substr($2, 1, 4)
+    chain_id = substr($2, 5, 1)
+    print pdbcode, chain_id > outfile
+}' $selfile
+
+# Now that we have a tempfile with the pdb-code and the chain-ID,
+# translate the pdbcode into lower-case and the chain-ID into upper case.
+# (We have to go to great lengths to do this because AWK has no upcase()
+# or locase() command).
+nawk '
+BEGIN {
+    numrecs = 0
+    while ("tr [A-Z] [a-z] < genpdbtemp.1" | getline) {
+      code[numrecs] = $1
+      numrecs++
+    }
+    numrecs = 0
+    while ("tr [a-z] [A-Z] < genpdbtemp.1" | getline) {
+      chain[numrecs] = $2
+      numrecs++
+    }
+    for (i=0; i<numrecs; i++) {
+      print code[i], chain[i]
+    }
+}' > genpdbtemp
+
+# Run awk on the listfile.  For each line in the listfile, get the
+# pdb-code, expand it into a fully-qualified pathname, and then build
+# a genpdbselectseq.awk command using the full-pathname and the chain-id.
+nawk '
+BEGIN {
+#       Set up the PDB filename syntax and the logfile name.
+	pdb_loc = "'$PDBHOME'/"
+	pdb_prefix = "pdb"
+	pdb_ext = ".ent"
+	logfile = "'$logfile'"
+}
+
+{
+#       Build the genpdbselectseq.awk command:
+	filename = pdb_loc pdb_prefix $1 pdb_ext
+	chain_id = $2
+	command = sprintf("'$SEQUERY_HOME'/share/genpdbselectseq.awk %s %s 2>> %s",
+	          filename, chain_id, logfile)
+#       Run the command:
+	system (command)
+}' genpdbtemp > $outfile
+
+# Clean up the mess
+/bin/rm -f genpdbtemp*
+
+# Done!
+exit
+	

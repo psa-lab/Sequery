@@ -1,0 +1,945 @@
+   25   1DDF_   127 -1.00  0.00     N   127   127      0     62      0  fas
+   25   2NEW_    68 -1.00  0.00     N    68    68      0     14      8  cytochrome c551.5
+   25   1AYJ_    51 -1.00  0.00     N    51    51      1     11     14  antifungal protein 1
+   25   1OMA_    48 -1.00  0.00     N    48    48      0      0     10  Omega-aga-ivb (NMR, 21 structures)
+   25   1PCE_    60 -1.00  0.00     N    60    60      0     11     10  Pec-60 (peptide with n-terminal glutamic acid, c-terminal cysteine and a total of 60 residues) (NMR, 20 structures)
+   25   1PFSA    78 -1.00  0.00     N    78    78      0      0     49  pf3 single-stranded DNA binding protein
+   25   1GPT_    47 -1.00  0.00     N    47    47      0     11     17  Gamma-1-h thionin (NMR, 8 structures)
+   25   1PDC_    45 -1.00  0.00     N    45    45      0      3     11  Seminal fluid protein pdc-109 (domain b) (NMR, best structure)
+   25   1AWJ_    77 -1.00  0.00     N    77    77      0      0      4  itk
+   25   1GRX_    85 -1.00  0.00     N    85    85      0     39     18  glutaredoxin
+   25   2VIK_   126 -1.00  0.00     N   126   126      0     27     30  villin 14t
+   25   1HEV_    43 -1.00  0.00     N    43    43      0     13      5  Hevein (NMR, 6 structures)
+   25   1HFH_   120 -1.00  0.00     N   120   120      0      0     43  Factor h, 15th and 16th c-module pair (NMR, minimized averaged structure)
+   25   1HMCB   143  2.50  0.20     X     0     0      0      0      0  Human macrophage colony stimulating factor (alpha form, soluble)
+   25   1BBO_    57 -1.00  0.00     N    57    57      1     19      6  Human enhancer-binding protein mbp-1 mutant with cys 11 replaced by abu (c11abu) (NMR, 60 structures)
+   25   1HCD_   118 -1.00  0.00     N   118   118      0      3     58  Hisactophilin (NMR, 1 structure)
+   25   1CUR_   155 -1.00  0.00     N   155   155      0     13     63  cu(i) rusticyanin
+   25   1CTL_    85 -1.00  0.00     N    85    85      0      0      0  avian cysteine rich protein
+   25   1BAK_   119 -1.00  0.00     N   119   119      0     22     40  g-protein coupled receptor kinase 2
+   25   1BAX_    94 -1.00  0.00     N     0     0      0      0      0  m-pmv matrix protein
+   25   2NEF_   136 -1.00  0.00     N   136   136      0     35     14  negative factor (f-protein)
+   25   1ROF_    60 -1.00  0.00     N    60    60      0      7      6  ferredoxin
+   25   1APJ_    74 -1.00  0.00     N    74    74      0     14     22  fibrillin
+   25   1QYP_    57 -1.00  0.00     N    57    57      0      0     19  RNA polymerase ii
+   25   1ARK_    60 -1.00  0.00     N    60    60      0      0     19  nebulin
+   25   1AOY_    78 -1.00  0.00     N    78    78      0     32      8  arginine repressor
+   25   1SRO_    76 -1.00  0.00     N    76    76      0      4     28  pnpase
+   25   1SKYE   470 -1.00  0.22     X   470   470      0    178    102  f1-atpase
+   25   1SHCA   195 -1.00  0.00     N   195   195      0     35     57  shc
+   25   1RTNA    68 -1.00  0.00     N    68    68      0     11     17  Rantes (regulated upon activation, normal t-cell expressed and presumably secreted) (NMR, 20 structures)
+   25   2LFB_   100 -1.00  0.00     N   100   100      0     60      0  lfb1HNF1 TRANSCRIPTION FACTOR
+   25   1ARQA    53 -1.00  0.00     N    53    53      0     31      5  Arc repressor (NMR, 16 structures)
+   25   1ATY_    46 -1.00  0.00     N    46    46      0     32      0  F1fo atp synthase subunit c (residues 9 - 26, 52 - 79) mutant with ala 67 replaced by cys (a67c) (NMR, 9 structures)
+   25   1DEC_    39 -1.00  0.00     N    39    39      0      0      9  Decorsin (NMR, 25 structures)
+   25   1PIH_    73 -1.00  0.00     N    73    73      0     13     18  High potential iron sulfur protein insertion mutant with ala 1 and ser 2 (ins(a1,S2)) (NMR, 15 structures)
+   25   2NCM_    99 -1.00  0.00     N    99    99      0      0     55  neural cell adhesion molecule
+   25   1ATX_    46 -1.00  0.00     N    46    46      0      0     16  ATX ia (NMR, 8 structures)
+   25   1GCF_   109 -1.00  0.00     N   109   109      0      0     48  granulocyte colony-stimulating factor receptor
+   25   1PUT_   106 -1.00  0.00     N   106   106      0     18     16  Putidaredoxin (NMR, 12 structures)
+   25   1GKS_    78 -1.00  0.00     N    78    78      0     40      4  cytochrome c551
+   25   1POU_    71 -1.00  0.00     N    71    71      0     48      0  Oct-1 (pou-specific domain) (NMR, 20 structures)
+   25   1DEF_   147 -1.00  0.00     N   147   147      0     27     25  peptide deformylase
+   25   1BCT_    69 -1.00  0.00     N    69    69      0     58      0  Bacteriorhodopsin (fragment 163-231) (NMR, 14 structures)
+   25   1KSR_   100 -1.00  0.00     N   100   100      0      0     43  gelation factor
+   25   1KRS_   110 -1.00  0.00     N   110   110      0     19     36  lysyl-trna synthetase (product of lyss gene)
+   25   1CDB_   105 -1.00  0.00     N   105   105      0      0     32  Cd2 (t lymphocyte glycoprotein, adhesion domain) (hu-scd2=105=) (NMR, 18 structures)
+   25   1JVR_   137 -1.00  0.00     N   137   137      0     38      0  human t-cell leukemia virus type ii matrix protein
+   25   1KUL_   108 -1.00  0.00     N   108   108      0      3     31  glucoamylase
+   25   2RGF_    97 -1.00  0.00     N    97    97      0     16     30  ralgef-rbd
+   25   1BVH_   157 -1.00  0.00     N   157   157      0     52     20  Tyrosine phosphatase (orthophosphoric monoester phosphohydrolase (acid optimum)) (NMR, 15 structures)
+   25   1LEFA    86 -1.00  0.00     N    86    86      0     49      0  lymphoid enhancer-binding factor
+   25   1BW4_   125 -1.00  0.00     N   125   125      0     24     40  Barwin, basic barley seed protein (NMR, 20 structures)
+   25   1CFAA    71 -1.00  0.00     N    71    71      0     39      0  complement 5a semi-synthetic antagonist
+   25   1IRL_   133 -1.00  0.00     N   133   133      0     69      4  interleukin-2
+   25   1CHL_    36 -1.00  0.00     N    36    36      0      8      7  Chlorotoxin (NMR, 7 structures)
+   25   1IFE_    91 -1.00  0.00     N    91    91      0     21     11  initiation factor if3
+   25   2TBD_   134 -1.00  0.00     N   134   134      0     38     36  sv40 t antigen
+   25   1IRSA   112 -1.00  0.00     N   112   112      0     22     42  irs-1
+   25   1JLI_   112 -1.00  0.00     N   112   112      0     65      0  interleukin 3
+   25   1CFE_   135 -1.00  0.00     N   135   135      0     47     23  pathogenesis-related protein p14a
+   25   1CFH_    47 -1.00  0.00     N    47    47      0      4      0  Coagulation factor ix (the gla and aromatic amino acid stack domains from residues 1 - 47) (NMR, 15 structures)
+   25   1IYU_    79 -1.00  0.00     N    79    79      0      0     37  dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+   25   2STTA    96 -1.00  0.00     N    96    96      0     35     11  ets1
+   25   1BUZ_   116 -1.00  0.00     N   116   116      0     40     20  spoiiaa
+   25   1NGR_    85 -1.00  0.00     N    85    85      0     52      2  p75 low affinity neurotrophin receptor
+   25   1BGK_    37 -1.00  0.00     N    37    37      0     18      0  bgk
+   25   1BHB_    67 -1.00  0.00     N    67    67      0     48      0  Bacteriorhodopsin (proteolytic fragment 1 - 71, solubilized in methanol-chloroform) (NMR, 12 structures)
+   25   1CRE_    60 -1.00  0.00     N    60    60      0      0     16  Cardiotoxin ii (NMR, minimized average structure)
+   25   1NHN_    79 -1.00  0.00     N    79    79      0     50      0  High mobility group protein 1 (hmg1) (NMR, 41 structures)
+   25   1HQI_    90 -1.00  0.00     N    90    90      0     30     17  phenol hydroxylase p2 protein
+   25   2PAC_    82 -1.00  0.00     N    82    82      0     26      0  Cytochrome c551 (NMR, 10 structures)
+   25   1HRZA    73 -1.00  0.00     N    73    73      0     47      0  human sry
+   25   1NOE_    86 -1.00  0.00     N    86    86      0     16     17  high potential iron sulfur protein
+   25   1NKL_    78 -1.00  0.00     N    78    78      0     57      0  nk-lysin
+   25   1BIP_   122 -1.00  0.00     N   122   122      0     40      6  Bifunctional trypsinALPHA-AMYLASE INHIBITOR (RBI) (NMR, 20 structures)
+   25   1LRE_    81 -1.00  0.00     N    81    81      0     55      0  receptor-associated protein
+   25   3DPA_   218  2.50  0.18     X     0     0      0      0      0  PapD
+   25   2PTL_    78 -1.00  0.00     N    78    78      0     12     25  Protein l (b1 domain) (NMR, 21 structures)
+   25   1MEF_    70 -1.00  0.00     N    70    70      0      0     30  cold-shock protein a
+   25   1MUT_   129 -1.00  0.00     N   129   129      0     15     30  nucleoside triphosphate pyrophosphohydrolase
+   25   1BNB_    38 -1.00  0.00     N    38    38      0      0     15  bovine neutrophil beta-defensin 12
+   25   1MSEC   105 -1.00  0.00     N   105   105      0     62      0  C-myb DNA-binding domain complexed with DNA (NMR, minimized average structure)
+   25   2PLDA   105 -1.00  0.00     N   105   105      0     16     27  Phospholipase c-gamma-1 (c-terminal sh2 domain comprising residues 663 - 759) complexed with a phosphopeptide from the platelet-derived growth factor receptor (residues 1018 - 1029
+   25   1BOR_    56 -1.00  0.00     N    56    56      0      0      2  transcription factor pml
+   25   1RET_    43 -1.00  0.00     N    43    43      0     25      0  Gamma delta resolvase (DNA binding domain) (NMR, 17 structures)
+   25   1YUB_   245 -1.00  0.00     N   245   245      0     77     43  rrna methyltransferase
+   25   1AAF_    55 -1.00  0.00     N    55    55      0      6      0  Hiv-1 nucleocapsid protein (mn isolate) (NMR, 20 structures)
+   25   1AB7_    89 -1.00  0.00     N    89    89      0     33     13  barstar
+   25   1ULO_   152 -1.00  0.00     N   152   152      0      0     66  endoglucanase c
+   25   1AHM_   129 -1.00  0.00     N   129   129      0      0     21  der f 2
+   25   1VIG_    71 -1.00  0.00     N    71    71      0     25     17  vigilin
+   25   1YUA_   122 -1.00  0.00     N   122   122      0     11     33  topoisomerase i
+   25   1UXD_    59 -1.00  0.00     N    59    59      0     29      0  fructose repressor
+   25   1AJ3_    98 -1.00  0.00     N    98    98      0     87      0  alpha spectrin
+   25   1ZDD_    34 -1.00  0.00     N    34    34      0     25      0  stable mini protein a domain, z34c
+   25   1TNW_   162 -1.00  0.00     N   162   162      0     93      4  troponin c
+   25   1AJYA    71 -1.00  0.00     N    71    71      0     34      1  put3
+   25   1TPT_   440  2.80  0.28     X     0     0      0      0      0  Thymidine phosphorylase 
+   25   1TXM_    34 -1.00  0.00     N    34    34      0     11      4  maurotoxin
+   25   1ZAQ_    44 -1.00  0.00     N    44    44      0      0      0  thrombomodulin
+   25   1AA3_    63 -1.00  0.00     N    63    63      0     21      6  reca
+   25   1TSG_    98 -1.00  0.00     N    98    98      0     10      8  tsg-6
+   25   1DPI_   546  2.80  0.20     X     0     0      0      0      0  DNA polymerase i (klenow fragment) - dCMP complex
+   25   1AG2_   103 -1.00  0.00     N   103   103      0     54      4  major prion protein
+   25   1EXG_   110 -1.00  0.00     N   110   110      0      3     62  Exo-1,4-beta-d-glycanase (cellulase, xylanase) (binding domain) (NMR, minimized average structure)
+   25   2HOA_    68 -1.00  0.00     N    68    68      0     42      0  Antennapedia protein (homeodomain) mutant with cys 39 replaced by ser (c39s) (NMR, 20 structures)
+   25   1WJBA    55 -1.00  0.00     N    55    55      0     33      0  hiv-1 integrase
+   25   1WTUA    99 -1.00  0.00     N    99    99      0     41     11  transcription factor 1
+   25   1WKT_    88 -1.00  0.00     N    87    87      0      0     31  yeast killer toxin
+   25   1FBR_    93 -1.00  0.00     N    93    93      0      0     27  fibronectin
+   25   1AFP_    51 -1.00  0.00     N    51    51      0      0     15  Antifungal protein from aspergillus giganteus (agafp) (NMR, 40 structures)
+   25   1AG4_   103 -1.00  0.00     N   103   103      0      4     38  spherulin 3a
+   25   1FDM_    50 -1.00  0.00     N    50    50      0     25      0  fd major coat protein
+   25   1AH9_    71 -1.00  0.00     N    71    71      0      3     28  initiation factor 1
+   25   1ERH_    70 -1.00  0.00     N     0     0      0      0      0  Human complement regulatory protein cd59 (extracellular region, residues 1 - 70) (NMR, 10 structures)
+   25   4RNPA   780  3.00  0.00     X     0     0      0      0      0  RNA polymerase
+   25   2HP8_    68 -1.00  0.00     N    68    68      0     42      0  hu-p8
+   25   2HGF_    97 -1.00  0.00     N    97    97      0     12     28  hepatocyte growth factor
+   25   1VTX_    42 -1.00  0.00     N    42    42      0      6      9  delta-atracotoxin-hv1
+   25   1ACP_    77 -1.00  0.00     N    77    77      0     40      0  Acyl carrier protein (NMR, 2 structures)
+   25   1TPM_    50 -1.00  0.00     N    50    50      0      0     20  Tissue-type plasminogen activator (type 1 fibrin-binding finger domain (f1)) (NMR, minimized average structure)
+   25   2VGH_    55 -1.00  0.00     N    55    55      0      6     12  vascular endothelial growth factor-165
+   25   1ERD_    40 -1.00  0.00     N    40    40      0     24      0  Pheromone er-2 (NMR, 20 structures)
+   25   1TIH_    53 -1.00  0.00     N    53    53      0      0     11  trypsin inhibitor t1
+   25   1TIU_    89 -1.00  0.00     N    89    89      0      0     28  titin, i27
+   25   2ECH_    49 -1.00  0.00     N    49    49      0      0      6  Echistatin (NMR, 8 structures)
+   25   2BDS_    43 -1.00  0.00     N    43    43      0      0     19  BDS-I (NMR, 42 simulated annealing structures)
+   25   7GATA    66 -1.00  0.00     N    66    66      0     13      4  area
+   25   1TFB_   206 -1.00  0.00     N   206   206      0    104      0  tfiib
+   25   2CBH_    36 -1.00  0.00     N    36    36      0      0     14  C-terminal domain of cellobiohydrolase i (CT-CBH i) (NMR,41 simulated annealing structures)
+   25   2CYK_   129 -1.00  0.00     N   129   129      0     74      6  Interleukin 4 (NMR, minimized average structure)
+   25   2FOW_    76 -1.00  0.00     N    76    76      0     31      8  ribosomal protein l11
+   25   2BRZ_    54 -1.00  0.00     N    54    54      1      9     13  brazzein
+   25   2BI6H    41 -1.00  0.00     N    41    41      0      0      6  bromelain inhibitor vi
+   25   2AT2A   295  3.00  0.19     X     0     0      0      0      0  Aspartate transcarbamoylase (aspartate carbamoyltransferase)
+   25   1TNM_    91 -1.00  0.00     N    91    91      0      0     42  Titin module m5 (connectin) (NMR, minimized average structure)
+   25   1ZWD_    35 -1.00  0.00     N    35    35      0     14      0  parathyroid hormone
+   25   1ZTO_    37 -1.00  0.00     N    37    37      1     12      0  potassium channel protein rck4
+   25   1SVR_    94 -1.00  0.00     N    94    94      0     25     29  Severin (domain 2 comprising 114 residues) (ds111m) (NMR, minimized average structure)
+   25   2HFH_    93 -1.00  0.00     N    93    93      0     41      4  genesis
+   25   1EAL_   127 -1.00  0.00     N   127   127      0     13     65  ileal lipid binding protein
+   25   2EZH_    65 -1.00  0.00     N    65    65      0     45      0  transposase
+   25   1TIV_    86 -1.00  0.00     N    86    86      0      0      0  hiv-1 transactivator protein
+   25   2ADX_    40 -1.00  0.00     N    40    40      0      0      0  thrombomodulin
+   25   1EHS_    48 -1.00  0.00     N    48    48      0     17      0  heat-stable enterotoxin b
+   25   2ABD_    86 -1.00  0.00     N    86    86      0     52      0  Acyl-coenzyme a binding protein (acbp)
+   25   2FSP_   124 -1.00  0.00     N   124   124      0     50     19  stage 0 sporulation protein f
+   25   1TLE_    58 -1.00  0.00     N    58    58      0      3     10  laminin
+   25   2EZL_    99 -1.00  0.00     N    99    99      0     58      0  transposase
+   25   1CMYB   146  3.00  0.27     X   146   146      0    117      0  Hemoglobin ypsilanti (carbon monoxy form)
+   25   3R1RA   733  3.00  0.26     X   733   733      0    344     88  ribonucleotide reductase r1 protein
+   25   2LDB_   301  3.00  0.26     X   301   301      0    126     63  L-Lactate dehydrogenase complex with NAD and fructose-1,6-bisphosphate
+   25   1MYPA   104  3.00  0.26     X   104   104      0     24     11  Myeloperoxidase 
+   25   1GYLB   350  3.00  0.25     X   350   350      0     83     17  Glycolate oxidase mutant with tyr 24 replaced by phe (y24f)
+   25   1AONO    97  3.00  0.25     X    97    97      0      0      0  groel
+   25   1IF1A   105  3.00  0.24     X   105   105      0     31      8  interferon regulatory factor 1
+   25   1GNHA   206  3.00  0.24     X   206   206      0     18     90  c-reactive protein
+   25   1YSTH   260  3.00  0.23     X   260   260      0     42     43  Photosynthetic reaction center (wild type)
+   25   1FPTH   220  3.00  0.23     X   220   220      0     15    109  Igg2a fab fragment (c3) complexed with poliovirus type 1 (mahoney strain) fragment (residues 86 - 103)
+   25   1UAAB   633  3.00  0.23     X   633   633      0    333     80  atp-dependent DNA helicase rep
+   25   1A3XB   445  3.00  0.23     X   445   445      0    174     77  pyruvate kinase
+   25   1SMVA   196  3.00  0.23     X   196   196      0     43     78  sesbania mosaic virus coat protein
+   25   1FPKA   312  3.00  0.23     X   312   312      0    107     74  fructose-1,6-bisphosphatase
+   25   1AGNA   373  3.00  0.23     X   373   373      0    112     96  human sigma alcohol dehydrogenase
+   25   1ASYA   490  3.00  0.23     X   490   490      0    146    115  Aspartyl trna synthetase (asprs) complexed with transfer ribonucleic acid (trna==asp==)
+   25   2MEV1   268  3.00  0.22     X   268   268      0     19     68  Mengo encephalomyocarditis virus coat protein
+   25   2MEV4    58  3.00  0.22     X    58    58      0      4      0  Mengo encephalomyocarditis virus coat protein
+   25   1KCW_  1017  3.00  0.22     X  1017  1017      0    123    372  ceruloplasmin
+   25   1PLR_   258  3.00  0.22     X   258   258      0     50    114  Proliferating cell nuclear antigen (pcna)
+   25   1CRKA   380  3.00  0.22     X   380   380      0    137     59  creatine kinase
+   25   1AIPA   373  3.00  0.22     X   373   373      0     87    129  elongation factor tu
+   25   1RPA_   342  3.00  0.21     X   342   342      0    155     41  Prostatic acid phosphatase complexed with tartaric acid
+   25   2BPA1   426  3.00  0.21     X   426   426      0    109    123  Bacteriophage phix174 capsid proteins gpf, gpg, gpj and four nucleotides
+   25   2BPA2   175  3.00  0.21     X   175   175      0      0     91  Bacteriophage phix174 capsid proteins gpf, gpg, gpj and four nucleotides
+   25   1PDGC    86  3.00  0.21     X    86    86      0      0     34  Platelet-derived growth factor bb
+   25   1N2CE   274  3.00  0.21     X   274   274      0    125     47  nitrogenase molybdenum-iron protein
+   25   1CNE_   260  3.00  0.19     X   260   260      0     41     54  Nitrate reductase (cytochrome b reductase fragment) mutant with cys 242 replaced by ser (c242s) complexed with fad
+   25   1NOM_   242  3.00  0.18     X   242   242      0    102     40  DNA polymerase beta
+   25   4RHV1   273  3.00  0.16     X   273   273      0     31     88  Rhinovirus 14 (HRV14)
+   25   1TAHA   318  3.00  0.16     X   318   318      0    126     54  Lipase (triacylglycerol hydrolase)
+   25   1PYP_   281  3.00  0.00     X   280   280      0     42     36  Inorganic pyrophosphatase 
+   25   2UCZ_   164  2.93  0.23     X   164   164      0     58     26  ubiquitin conjugating enzyme
+   25   1VBA4    62  2.90  0.30     X    62    62      0      7      9  poliovirus type 3
+   25   1FZAB   313  2.90  0.26     X   313   313      0     68     67  fibrinogen
+   25   1FZAA    85  2.90  0.26     X    85    85      0     60      1  fibrinogen
+   25   1GUKB   209  2.90  0.23     X   209   209      0    112     15  glutathione s-transferase a4-4
+   25   1CMKE   350  2.90  0.23     X   350   350      0    133     52  Camp-dependent protein kinase catalytic subunit 
+   25   1AN2A    86  2.90  0.23     X    86    86      0     63      0  max protein
+   25   1DHX_   905  2.90  0.23     X   905   905      0    118    182  adenovirus type 2 hexon
+   25   1FC1A   207  2.90  0.22     X   206   206      0     20     98  Fc fragment (igg1 class)
+   25   1HWHA   185  2.90  0.21     X   185   185      0    121      0  growth hormone
+   25   2BCT_   502  2.90  0.21     X   502   502      0    378      0  beta-catenin
+   25   1BCFA   158  2.90  0.21     X   157   157      0    124      0  Bacterioferritin (cytochrome b1)
+   25   1RUSA   437  2.90  0.20     X   437   437      0    163     72  Rubisco (ribulose-1,5-bisphosphate carboxylase/oxygenase) complex with 3-phosphoglycerate
+   25   2TBVA   287  2.90  0.20     X   286   286      0      7    111  Tomato bushy stunt virus
+   25   1TFPA   114  2.90  0.20     X   114   114      0      3     55  transthyretin
+   25   1DKTB    71  2.90  0.20     X    71    71      0     11     23  cyclin dependent kinase subunit, type 1
+   25   1SERA   372  2.90  0.19     X   372   372      0    136     90  Seryl-trna synthetase complexed with trna-ser 2 (gga anticodon)
+   25   1BLE_   161  2.90  0.18     X   161   161      0     56     42  fructose permease
+   25   1STD_   162  2.90  0.18     X   162   162      0     51     70  Scytalone dehydratase 
+   25   1PYSA   266  2.90  0.18     X   266   266      0     84     73  phenylalanyl-trna synthetase
+   25   1AN7A   136  2.90  0.16     X   136   136      0     39     53  ribosomal protein s8
+   25   4DPVZ   559  2.90  0.00     X   559   559      0     52    161  canine parvovirus strain d viral protein 2
+   25   1BMFG   122  2.85  0.17     X   122   122      0    108      0  bovine mitochondrial f1-atpase
+   25   1SQC_   619  2.85  0.17     X   619   619      0    334     22  squalene-hopene cyclase
+   25   1TNRA   144  2.85  0.16     X   144   144      0      7     82  Tumor necrosis factor receptor p55 (extracellular domain) complexed with tumor necrosis factor-beta
+   25   1KMNA   380  2.80  0.25     X   380   380      1    149     85  histidyl-trna synthetase
+   25   1AVOB   140  2.80  0.25     X   140   140      0    115      2  11s regulator
+   25   1JRHI    95  2.80  0.25     X    95    95      0      3     46  antibody a6
+   25   2LGSA   445  2.80  0.23     X   445   445      0    166    103  Glutamine synthetase complexed with glutamate
+   25   1THJA   213  2.80  0.23     X   213   213      0     30     71  carbonic anhydrase
+   25   1CID_   177  2.80  0.23     X   177   177      0      3    100  Cd4 (domains 3 and 4)
+   25   1FGJA   499  2.80  0.23     X   499   499      0    263      8  hydroxylamine oxidoreductase
+   25   1A0AA    63  2.80  0.23     X    63    63      0     39      0  phosphate system positive regulatory protein pho4
+   25   1DKGA   158  2.80  0.22     X   158   158      0     84     35  nucleotide exchange factor grpe
+   25   1ASX_   152  2.80  0.22     X   152   152      0     57     43  thermosome
+   25   2BBVC   321  2.80  0.22     X   321   321      0     47    119  Black beetle virus capsid protein (bbv) complexed with duplex RNA
+   25   1PKP_   145  2.80  0.22     X   145   145      0     39     49  Ribosomal protein s5 (prokaryotic)
+   25   1RGS_   264  2.80  0.22     X   264   264      0     91     72  camp dependent protein kinase
+   25   1AGRE   128  2.80  0.22     X   127   127      0     84      0  guanine nucleotide-binding protein g(i)
+   25   2VAOA   555  2.80  0.21     X   554   555      0    215    100  vanillyl-alcohol oxidase
+   25   1FOKA   568  2.80  0.21     X   568   568      0    254     71  foki restriction endonuclease
+   25   1BCMB   303  2.80  0.21     X   303   303      0     80     82  bacteriophage mu transposase
+   25   1AKN_   547  2.80  0.21     X   545   547      0    184     92  bile-salt activated lipase
+   25   1ATNA   372  2.80  0.21     X   372   372      0    153     77  Deoxyribonuclease i complex with actin
+   25   1EBPA   211  2.80  0.21     X   211   211      0     20     97  epo receptor
+   25   1XXCA    72  2.80  0.21     X    72    72      0     24     23  arginine repressor
+   25   1PREB   451  2.80  0.21     X   451   451      0     78    186  proaerolysin
+   25   1DLHB   188  2.80  0.20     X   188   188      0     33     87  Hla-dr1 (dra, drb1 0101) human class ii histocompatibility protein (extracellular domain) complexed with antigenic peptide
+   25   1OCCK    49  2.80  0.20     X    49    49      0     27      0  cytochrome c oxidase
+   25   1OCCH    75  2.80  0.20     X    75    75      0     42      1  cytochrome c oxidase
+   25   1OCCD   144  2.80  0.20     X   144   144      0     78      6  cytochrome c oxidase
+   25   1OCCG    84  2.80  0.20     X    84    84      0     24      0  cytochrome c oxidase
+   25   1OCCE   109  2.80  0.20     X   109   109      0     71      1  cytochrome c oxidase
+   25   1OCCF    98  2.80  0.20     X    98    98      0     15     29  cytochrome c oxidase
+   25   1OCCC   261  2.80  0.20     X   261   261      0    194      2  cytochrome c oxidase
+   25   1FSZ_   334  2.80  0.20     X   334   334      0    143     78  ftsz
+   25   2DRPD    65  2.80  0.19     X    62    64      0     22     15  Tramtrack protein (two zinc-finger peptide) complexed with DNA
+   25   1MXA_   378  2.80  0.19     X   377   377      0    122     95  s-adenosylmethionine synthetase
+   25   1PIOA   256  2.80  0.19     X   256   256      0    114     48  beta-lactamase
+   25   1GIN_   431  2.80  0.19     X   431   431      0    166     84  adenylosuccinate synthetase
+   25   1QAPA   289  2.80  0.19     X   289   289      0    133     51  quinolinic acid phosphoribosyltransferase
+   25   1SLY_   618  2.80  0.18     X   618   618      0    430      3  70-kda soluble lytic transglycosylase
+   25   1NPOC    79  2.80  0.18     X    79    79      0     14     32  neurophysin ii
+   25   2DMR_   771  2.80  0.18     X   771   771      0    259    139  dmso reductase
+   25   1BTMA   251  2.80  0.18     X   251   251      0    123     39  triosephosphate isomerase
+   25   1BIB_   294  2.80  0.17     X   294   294      0     98     85  Bira bifunctional protein (acts as biotin operon repressor and biotin holoenzyme synthetase) complex with biotinylated lysine
+   25   1YSC_   421  2.80  0.16     X   421   421      0    162     67  Serine carboxypeptidase (cpy, cpd-y, or proteinase c) 
+   25   1PBC_   391  2.80  0.14     X   391   391      0    157    110  P-hydroxybenzoate hydroxylase (phbh) mutant with cys 116 replaced by ser (c116s) complexed with fad and 2-hydroxy-4-aminobenzoic acid
+   25   1ELYA   449  2.80  0.14     X   449   449      0    140     95  alkaline phosphatase
+   25   1ATIB   436  2.75  0.23     X   436   436      0    145    114  glycyl-trna synthetase
+   25   1IBCA   167  2.73  0.17     X   167   167      0     56     35  interleukin-1beta converting enzyme
+   25   1IBCB    88  2.73  0.17     X    88    88      0     23     16  interleukin-1beta converting enzyme
+   25   1CSGA   120  2.70  0.25     X   120   120      0     61     10  Granulocyte-macrophage colony-stimulating factor (gm-csf)
+   25   1A02N   280  2.70  0.25     X   280   280      0     10    121  nfat
+   25   1A02F    53  2.70  0.25     X    53    53      0     51      0  nfat
+   25   1BCPB   197  2.70  0.23     X   197   197      0     39     65  pertussis toxin
+   25   1BCPF    98  2.70  0.23     X    98    98      0     14     38  pertussis toxin
+   25   1D66A    57  2.70  0.23     X    57    57      0     23      0  Gal4 (residues 1 - 65) complex with 19mer DNA
+   25   1AM4A   199  2.70  0.23     X   199   199      0    107      0  p50-rhogap
+   25   1AR1A   529  2.70  0.21     X   529   529      0    363     13  cytochrome c oxidase
+   25   1ANV_   314  2.70  0.20     X   314   314      0    107     30  adenovirus single-stranded DNA-binding protein
+   25   1OFGA   381  2.70  0.20     X   381   381      0    135     84  glucose-fructose oxidoreductase
+   25   1ZID_   268  2.70  0.20     X   268   268      0    124     42  enoyl-[acyl-carrier-protein] reductase
+   25   1LXTA   561  2.70  0.20     X   561   561      0    197    141  phosphoglucomutase (dephospho form)
+   25   1ECRA   305  2.70  0.20     X   305   305      0    111     87  replication terminator protein
+   25   1PEX_   192  2.70  0.20     X   192   192      0     13     81  collagenase-3
+   25   1SMEA   329  2.70  0.20     X   329   329      0     40    144  plasmepsin ii
+   25   1UDII    83  2.70  0.19     X    83    83      0     18     33  uracil-DNA glycosylase
+   25   3PBGA   468  2.70  0.17     X   468   468      0    196     89  6-phospho-beta-d-galactosidase
+   25   1AF9_   441  2.70  0.16     X   441   441      0     32    196  tetanus neurotoxin
+   25   1AHJA   198  2.65  0.26     X   198   198      0     80     24  nitrile hydratase
+   25   1AHJB   212  2.65  0.26     X   212   212      0     68     30  nitrile hydratase
+   25   1AKJD   114  2.65  0.21     X   114   114      0      3     53  mhc class i histocompatibility antigen
+   25   1XDTR    41  2.65  0.17     X    41    41      0      3     12  diphtheria toxin
+   25   1MND_   641  2.60  0.24     X   639   641      0    275     96  myosin
+   25   1JKW_   277  2.60  0.22     X   277   277      0    187      0  cyclin h
+   25   1A0I_   332  2.60  0.22     X   332   332      0     81    111  DNA ligase
+   25   1SIG_   305  2.60  0.22     X   305   305      0    215      7  RNA polymerase primary sigma factor
+   25   1DIV_   149  2.60  0.22     X   149   149      0     57     50  ribosomal protein l9
+   25   1LRV_   233  2.60  0.20     X   233   233      0    139      2  leucine-rich repeat variant
+   25   2EMO_   221  2.60  0.20     X   221   221      0     20    115  green fluorescent protein
+   25   1FDZA   292  2.60  0.20     X   292   292      0    157     39  n-acetylneuraminate lyase
+   25   1LKTA   104  2.60  0.20     X   104   104      0      3     40  tailspike protein
+   25   1HCNB   110  2.60  0.20     X   110   110      0      0     58  Human chorionic gonadotropin
+   25   1HCNA    85  2.60  0.20     X    85    85      0      4     47  Human chorionic gonadotropin
+   25   1PS1A   304  2.60  0.20     X   304   304      0    219      0  pentalenene synthase
+   25   1CBY_   227  2.60  0.20     X   227   227      0     67     68  delta-endotoxin cytb
+   25   6PFKA   319  2.60  0.19     X   319   319      0    146     63  phosphofructokinase
+   25   2PIL_   158  2.60  0.19     X   158   158      1     64     40  type 4 pilin
+   25   1BVP1   349  2.60  0.18     X   349   349      0    119     64  Bluetongue virus 10 (usa) vp7 (btv-10 (usa) vp7)
+   25   1LXA_   262  2.60  0.18     X   262   262      0     43     75  udp n-acetylglucosamine o-acyltransferase
+   25   1LNH_   836  2.60  0.17     X   836   836      0    318    119  lipoxygenase-3
+   25   1LL1_   590  2.55  0.17     X   590   590      0    206    115  metcyanin ii
+   25   1AI6A   195  2.55  0.14     X   195   195      0    127     12  penicillin amidohydrolase
+   25   1P04A   198  2.55  0.13     X   198   198      0     13    109  Alpha-lytic protease complex with methoxysuccinyl-Ala-Ala-Pro-Isoleucine boronic acid
+   25   2FRVB   530  2.54  0.20     X   530   530      0    251     87  periplasmic hydrogenase
+   25   2FRVA   261  2.54  0.20     X   261   261      0    103     41  periplasmic hydrogenase
+   25   1FCDA   401  2.53  0.24     X   401   401      0    114    103  Flavocytochrome c sulfide dehydrogenase (fcsd)
+   25   1WSYB   385  2.50  0.25     X   385   385      0    175     69  Tryptophan synthase 
+   25   1YTFC    46  2.50  0.23     X    46    46      0      0     38  yeast tata-box binding protein
+   25   1PDNC   123  2.50  0.23     X   123   123      0     58      6  prd paired domain
+   25   1HJP_   186  2.50  0.23     X   186   186      0     81     38  ruva
+   25   1ITBB   310  2.50  0.23     X   310   310      0     16    123  interleukin-1 beta
+   25   1EUU_   601  2.50  0.23     X   601   601      0     12    285  sialidase
+   25   1EXNB   272  2.50  0.23     X   272   272      4    161     36  5'-exonuclease
+   25   1KZUB    41  2.50  0.23     X    41    41      0     32      0  light harvesting protein b-800850
+   25   1RHOA   145  2.50  0.23     X   145   145      3      5     75  rho gdp-dissociation inhibitor 1
+   25   1YRNA    49  2.50  0.23     X    49    49      0     37      0  mating-type protein a-1
+   25   1CKNB   317  2.50  0.22     X   317   317      1     67    131  mrna capping enzyme
+   25   1A0P_   271  2.50  0.22     X   271   271      0    162     16  site-specific recombinase xerd
+   25   1IPSA   328  2.50  0.22     X   328   328      0     94     74  isopenicillin n synthase
+   25   1KB5B   117  2.50  0.22     X   117   117      0      0     60  kb5-c20 t-cell antigen receptor
+   25   1AO6A   578  2.50  0.22     X   578   578      0    414      0  serum albumin
+   25   1XBRA   184  2.50  0.21     X   184   184      0     41     66  t protein
+   25   1A7J_   279  2.50  0.21     X   279   279      0    114     54  phosphoribulokinase
+   25   1AUA_   296  2.50  0.21     X   296   296      0    148     28  phosphatidylinositol transfer protein sec14p
+   25   2VIUA   320  2.50  0.21     X   320   320      0     31    133  hemagglutinin
+   25   2VIUB   175  2.50  0.21     X   175   175      0     92     27  hemagglutinin
+   25   1GC1G   297  2.50  0.21     X   297   297      0     44    106  envelope protein gp120
+   25   1DUBA   260  2.50  0.21     X   260   260      0    127     43  2-enoyl-coa hydratase
+   25   1UMUA   105  2.50  0.21     X   105   105      2     11     40  umud'
+   25   1VPFA    94  2.50  0.20     X    94    94      0     15     57  vascular endothelial growth factor
+   25   1AN9A   340  2.50  0.20     X   340   340      0    109     97  d-amino acid oxidase
+   25   1HMY_   328  2.50  0.20     X   328   328      1     96     58  Hhai DNA (cytosine-c5-)-methyltransferase complex with s-adenosyl-l-methionine
+   25   4CPAI    37  2.50  0.20     X    37    37      0      0      7  Carboxypeptidase a=alpha= (cox) complex with potato carboxypeptidase a inhibitor
+   25   1MSPA   124  2.50  0.20     X   122   124      0      7     56  major sperm protein
+   25   1DFJI   456  2.50  0.19     X   456   456      0    199     55  ribonuclease a
+   25   1AOJA    60  2.50  0.19     X    60    60      0      3     27  eps8
+   25   1IHFA    96  2.50  0.19     X    96    96      0     40     28  integration host factor
+   25   1POIB   260  2.50  0.19     X   260   260      0     65     56  glutaconate coenzyme a-transferase
+   25   1POIA   317  2.50  0.19     X   317   317      0    111     75  glutaconate coenzyme a-transferase
+   25   2POLA   366  2.50  0.18     X   366   366      0     79    170  Pol iii (beta subunit) 
+   25   1FIEA   705  2.50  0.18     X   703   703      0    104    288  coagulation factor xiii
+   25   1AURA   218  2.50  0.18     X   218   218      0     75     50  carboxylesterase
+   25   2DPG_   485  2.50  0.17     X   485   485      0    183     97  glucose 6-phosphate dehydrogenase
+   25   1KNYA   253  2.50  0.17     X   253   253      0    141     35  kanamycin nucleotidyltransferase
+   25   8ATCB   146  2.50  0.17     X   146   146      0     23     50  Aspartate carbamoyltransferase (aspartate transcarbamylase) (r state) complex with n-phosphonacetyl-l-aspartate (PALA)
+   25   1FUIA   591  2.50  0.16     X   591   591      0    240    119  l-fucose isomerase
+   25   1HJRA   158  2.50  0.16     X   158   158      0     66     38  Holliday junction resolvase (ruvc)
+   25   1IHP_   434  2.50  0.15     X   434   434      0    190     55  phytase
+   25   1HLB_   157  2.50  0.15     X   157   157      0    105      0  Hemoglobin (sea cucumber)
+   25   1PYAB   228  2.50  0.15     X   228   228      0     62     82  Pyruvoyl-dependent histidine decarboxylase (l-histidine carboxylase) 
+   25   2STV_   184  2.50  0.00     X   184   184      0     21     88  Satellite tobacco necrosis virus
+   25   1LPBA    85  2.46  0.18     X    85    85      0      9     25  Lipase complexed with colipase and inhibited by undecane phosphonate methyl ester (two conformations)
+   25   1TC3C    51  2.45  0.23     X    51    51      0     29      0  DNA
+   25   1A17_   159  2.45  0.20     X   159   159      0    122      0  serineTHREONINE PROTEIN PHOSPHATASE 5
+   25   1JACA   133  2.43  0.17     X   133   133      0      0     86  jacalin
+   25   1TDX_   133  2.40  0.28     X   133   133      0     70      4  diphtheria tox repressor
+   25   1QTQA   529  2.40  0.24     X   529   529      0    164    128  glutaminyl-trna synthetase
+   25   1YPDA   545  2.40  0.23     X   545   545      0    208    102  pyruvate decarboxylase (form b)
+   25   1RLW_   126  2.40  0.23     X   126   126      0      9     64  phospholipase a2
+   25   1BP1_   456  2.40  0.23     X   456   456      0    107    208  bactericidalPERMEABILITY-INCREASING PROTEIN
+   25   1AFRA   345  2.40  0.22     X   345   345      0    232      8  delta9 stearoyl-acyl carrier protein desaturase
+   25   1DAR_   619  2.40  0.22     X   615   615      0    156    213  elongation factor g
+   25   1HULA   108  2.40  0.21     X   108   108      0     71      8  interleukin-5
+   25   1JMCA   238  2.40  0.21     X   238   238      0     40     99  replication protein a
+   25   1LGHA    56  2.40  0.21     X    56    56      0     48      0  light harvesting complex ii
+   25   1RNL_   200  2.40  0.21     X   200   200      0    107     26  nitrateNITRITE RESPONSE REGULATOR PROTEIN NARL
+   25   1UBY_   348  2.40  0.20     X   348   348      0    250      4  farnesyl diphosphate synthase
+   25   1CNT2   130  2.40  0.20     X   130   130      0    107      0  ciliary neurotrophic factor
+   25   3ULLA   106  2.40  0.20     X   106   106      0      8     58  DNA binding protein
+   25   1VDEA   429  2.40  0.19     X   429   429      0    111    149  pi-scei
+   25   2MPRA   421  2.40  0.19     X   421   421      0      6    276  maltoporin
+   25   1MUP_   157  2.40  0.19     X   156   157      0     20     73  Major urinary protein complex with 2-(sec-butyl) thiazoline
+   25   2TRCP   217  2.40  0.19     X   216   217      5     87     29  transducin
+   25   1BNCA   433  2.40  0.18     X   433   433      0    158    112  biotin carboxylase
+   25   2TMKA   204  2.40  0.18     X   204   204      0     99     31  thymidylate kinase
+   25   1CHKA   238  2.40  0.18     X   238   238      0    135     18  chitosanase
+   25   2LIV_   344  2.40  0.18     X   344   344      0    153     68  Leucine/Isoleucine/Valine-binding protein (LIVBP)
+   25   1ECEA   358  2.40  0.18     X   358   358      0    100     65  endocellulase e1
+   25   1YTW_   283  2.40  0.18     X   283   283      0    107     58  yersinia protein tyrosine phosphatase
+   25   2MTAC   147  2.40  0.18     X   147   147      0     62      2  Methylamine dehydrogenase complex with amicyanin and cytochrome c551i
+   25   1AN8_   206  2.40  0.17     X   206   206      0     49     74  streptococcal pyrogenic exotoxin c
+   25   3MDDA   385  2.40  0.17     X   385   385      0    216     63  Medium chain acyl-coa dehydrogenase (mcad) 
+   25   2OMF_   340  2.40  0.17     X   340   340      0     15    202  matrix porin outer membrane protein f
+   25   1FKX_   349  2.40  0.16     X   348   348      0    180     51  adenosine deaminase
+   25   4AAHA   571  2.40  0.15     X   571   571      0     61    211  methanol dehydrogenase
+   25   3NLL_   138  2.40  0.15     X   138   138      0     59     31  flavodoxin
+   25   1STFI    98  2.37  0.19     X    98    98      0     19     39  Papain (cys 25 carboxymethylated) complexed with the inhibitor stefin b (cystatin b) mutant with cys i 8 replaced by ser (c(i 8)s)
+   25   1AK4C   145  2.36  0.24     X   145   145      0     82      6  cyclophilin a
+   25   1A6JB   157  2.35  0.20     X   157   157      0     75     33  nitrogen regulatory iia protein
+   25   1PYTA    94  2.35  0.19     X    94    94      0     38     21  procarboxypeptidase a
+   25   1AYYA   138  2.32  0.19     X   138   138      0     59     21  glycosylasparaginase
+   25   1DJXA   513  2.30  0.22     X   513   513      0    156    135  phosphoinositide-specific phospholipase c, isozyme delta1
+   25   1AZSA   190  2.30  0.22     X   190   190      0     71     56  vc1
+   25   1AK5_   329  2.30  0.22     X   329   329      0    124     71  inosine-5'-monophosphate dehydrogenase
+   25   2DYNA   111  2.30  0.21     X   111   111      0     13     50  dynamin
+   25   1AJ6_   194  2.30  0.21     X   194   194      0     60     57  gyrase
+   25   2MASA   313  2.30  0.20     X   313   313      0    125     55  inosine-uridine nucleoside n-ribohydrolase
+   25   1GTQA   138  2.30  0.20     X   138   138      0     50     41  6-pyruvoyl tetrahydropterin synthase
+   25   1GGGA   220  2.30  0.20     X   220   220      0     79     62  glutamine binding protein
+   25   1ITG_   142  2.30  0.20     X   142   142      0     63     29  Hiv-1 integrase (catalytic domain comprising residues 50 - 212) mutant with gly-ser-his appended to the n-terminus and phe 185 replaced by lys (ins(47-49),F185k)
+   25   2RSLC   119  2.30  0.20     X   119   119      0     58     21  Gamma delta resolvase (large fragment, catalytic domain)
+   25   1ASKA   125  2.30  0.20     X   125   125      0     33     57  nuclear transport factor 2
+   25   1TABI    36  2.30  0.20     X    36    36      0      0      7  Trypsin complex with bowman-Birk inhibitor (AB-I)
+   25   1INP_   400  2.30  0.20     X   400   400      0    114     79  Inositol polyphosphate 1-phosphatase (1-ptase) (inositol-1,4-bisphosphate 1-phosphatase) complexed with magnesium
+   25   1CYX_   158  2.30  0.20     X   158   158      0     29     63  cyoa
+   25   1AERA   205  2.30  0.20     X   205   205      0     52     43  exotoxin a
+   25   1SMPI   100  2.30  0.20     X   100   100      0     11     53  serratia metallo proteinase
+   25   1PRCC   333  2.30  0.19     X   332   332      0    138     10  Photosynthetic reaction center
+   25   1JSUC    69  2.30  0.19     X    69    69      0     23      8  cyclin-dependent kinase-2
+   25   4PGMA   235  2.30  0.19     X   235   235      0     96     30  phosphoglycerate mutase 1
+   25   1E2AA   102  2.30  0.19     X   102   102      0     87      0  enzyme iia
+   25   1YCQA    88  2.30  0.19     X    88    88      0     39     14  mdm2
+   25   1OPR_   213  2.30  0.19     X   213   213      0     94     49  orotate phosphoribosyltransferase
+   25   1DHY_   278  2.30  0.19     X   278   278      0     58    109  2,3-dihydroxybiphenyl 1,2-dioxygenase
+   25   1BNDB   108  2.30  0.18     X   108   108      0      0     64  brain derived neurotrophic factor
+   25   1TDF_   316  2.30  0.18     X   315   315      0     89     93  Thioredoxin reductase mutant with cys 138 replaced by ser (c138s)
+   25   1CFYA   133  2.30  0.17     X   133   133      0     48     41  cofilin
+   25   4HTCI    61  2.30  0.17     X    59    60      0      3     19  Alpha-thrombin complex with recombinant hirudin (variant 2, lys 47)
+   25   1IPWA   168  2.30  0.17     X   168   168      0     34     57  soluble inorganic pyrophosphatase
+   25   1KIT_   757  2.30  0.17     X   757   757      0     45    385  sialidase
+   25   1AM7A   154  2.30  0.16     X   154   154      4     63     12  lysozyme
+   25   1AORA   605  2.30  0.15     X   605   605      0    272     86  Aldehyde ferredoxin oxidoreductase protein complexed with molybdopterin (synchrotron x-ray diffraction)
+   25   1DHR_   236  2.30  0.15     X   236   236      0     95     58  Dihydropteridine reductase (dhpr) complex with nadh
+   25   1MNMC    77  2.25  0.24     X    77    77      0     39      8  mcm1 transcriptional regulator
+   25   1IGNA   189  2.25  0.22     X   189   189      0     85     10  rap1
+   25   1FT1A   315  2.25  0.21     X   315   315      0    213      2  protein farnesyltransferase
+   25   1FT1B   416  2.25  0.21     X   416   416      0    208     29  protein farnesyltransferase
+   25   1TIID    98  2.25  0.19     X    98    98      0     25     38  heat labile enterotoxin type iib
+   25   1QUF_   296  2.25  0.19     X   295   296      0     78     84  ferredoxin-nadp+ reductase
+   25   1A26_   351  2.25  0.17     X   351   351      0    137     83  poly (adp-ribose) polymerase
+   25   1JXPA   177  2.20  0.24     X   177   177      0     22     84  ns3 serine protease
+   25   1GPC_   218  2.20  0.24     X   218   218      0     66     57  core gp32
+   25   1ZXQ_   192  2.20  0.23     X   192   192      0     11    116  intercellular adhesion molecule-2
+   25   1AU1A   166  2.20  0.22     X   166   166      0    116      0  interferon-beta
+   25   1NOZA   346  2.20  0.22     X   346   346      0    140     62  DNA polymerase
+   25   1FTS_   295  2.20  0.22     X   295   295      0    151     39  ftsy
+   25   1BEO_    98  2.20  0.22     X    98    98      0     60      6  beta-cryptogein
+   25   1SMTB   101  2.20  0.22     X   101   101      0     60     13  transcriptional repressor smtb
+   25   1AIJM   301  2.20  0.22     X   301   301      0    192     12  photosynthetic reaction center
+   25   1A74A   162  2.20  0.22     X   162   162      0     30     51  intron-encoded endonuclease i-ppoi
+   25   1AA0_   113  2.20  0.22     X   113   113      0     71      8  fibritin
+   25   1GCB_   452  2.20  0.21     X   452   452      0    192     77  gal6 hg (emts) derivative
+   25   1YCSB   193  2.20  0.20     X   193   193      0     72     25  p53
+   25   1TUPC   195  2.20  0.20     X   195   195      0     19     67  tumor suppressor p53
+   25   1ETPA   190  2.20  0.20     X   190   190      0     90      4  cytochrome c4
+   25   1AW8B    91  2.20  0.20     X    91    91      1     17     42  l-aspartate-alpha-decarboxylase
+   25   2CAE_   475  2.20  0.20     X   475   475      1    152     82  catalase
+   25   1XVAA   293  2.20  0.20     X   293   293      1     89     79  glycine n-methyltransferase
+   25   1NSGB    94  2.20  0.20     X    94    94      0     81      0  fk506-binding protein
+   25   1MAZ_   143  2.20  0.19     X   143   143      0    106      0  bcl-xl
+   25   2BGU_   328  2.20  0.19     X   328   328      0    127     61  beta-glucosyltransferase
+   25   1PBOB   151  2.20  0.19     X   151   151      0     22     73  odorant binding protein
+   25   1LBA_   146  2.20  0.19     X   146   146      0     40     30  Lysozyme mutant with ala 6 replaced by lys and residues 2 - 5 deleted (del(2-5),A6k)
+   25   1BHMB   208  2.20  0.19     X   208   208      0     75     56  endonuclease bamhi
+   25   1KTE_   105  2.20  0.19     X   105   105      0     53     20  thioltransferase
+   25   1VMOA   163  2.20  0.19     X   163   163      0      0     64  Vitelline membrane outer layer protein i
+   25   1DELA   241  2.20  0.19     X   241   241      0    106     29  deoxynucleoside monophosphate kinase
+   25   1HTP_   131  2.20  0.18     X   131   131      0     33     47  H-protein complexed with lipoic acid charged in methylamine
+   25   1FTPA   133  2.20  0.18     X   133   133      0     17     70  Fatty-acid-binding protein
+   25   1TUL_   102  2.20  0.18     X   102   102      0      7     52  tlp20
+   25   2PHLA   360  2.20  0.18     X   360   360      0     64    161  Phaseolin
+   25   1BOVA    69  2.20  0.18     X    69    69      0     13     33  Verotoxin-1 (b-oligomer, also called shiga-like toxin-1)
+   25   3DAPA   320  2.20  0.17     X   319   320      0    130     81  diaminopimelic acid dehydrogenase
+   25   1GNWA   210  2.20  0.17     X   210   210      0    118     17  glutathione s-transferase
+   25   1GPMB   499  2.20  0.17     X   499   499      0    171    128  gmp synthetase
+   25   1JLYA   299  2.20  0.17     X   299   299      0     20    135  agglutinin
+   25   1GTMA   417  2.20  0.17     X   417   417      0    204     73  glutamate dehydrogenase
+   25   1TDTB   255  2.20  0.17     X   255   255      0     50     80  tetrahydrodipicolinate-n-succinlytransferase
+   25   1HCGB    51  2.20  0.17     X    51    51      0      3     16  Blood coagulation factor xa
+   25   1GOH_   639  2.20  0.16     X   639   639      0     21    270  Galactose oxidase (apo form)
+   25   1DHS_   344  2.20  0.15     X   344   344      0    175     38  deoxyhypusine synthase
+   25   5EAU_   523  2.15  0.24     X   523   523      0    373      2  5-epi-aristolochene synthase
+   25   1AYM3   238  2.15  0.23     X   238   238      0     19     73  human rhinovirus 16 coat protein
+   25   1AYM2   252  2.15  0.23     X   252   252      0     34     92  human rhinovirus 16 coat protein
+   25   1AWCB   153  2.15  0.21     X   153   153      0     83      0  ga binding protein alpha
+   25   1AUVB   293  2.15  0.20     X   293   293     10     79     87  synapsin ia
+   25   1CFR_   283  2.15  0.20     X   283   283      0    142     39  restriction endonuclease
+   25   1ASH_   147  2.15  0.18     X   146   147      0    114      0  Hemoglobin (domain one)
+   25   1KIMB   308  2.14  0.21     X   304   304      0    173     40  thymidine kinase
+   25   1ABRB   267  2.14  0.19     X   267   267      0     33     98  Abrin-a complexed with two sugar chains
+   25   1AUK_   481  2.10  0.25     X   480   481      1    143     89  arylsulfatase a
+   25   1THTB   293  2.10  0.23     X   291   293      0    122     59  Thioesterase
+   25   1ACC_   665  2.10  0.22     X   665   665      0    102    235  anthrax protective antigen
+   25   1A4SA   503  2.10  0.22     X   503   503      0    209    101  betaine aldehyde dehydrogenase
+   25   1SFE_   165  2.10  0.22     X   164   165      0     66     31  ada o6-methylguanine-DNA methyltransferase
+   25   1YGS_   190  2.10  0.22     X   190   190      0     47     62  smad4
+   25   1RMD_   116  2.10  0.21     X   116   116      0     43     18  rag1
+   25   1PEA_   368  2.10  0.21     X   368   368      0    151     73  amidase operon
+   25   1VNC_   576  2.10  0.20     X   576   576      0    249     50  vanadium-containing chloroperoxidase
+   25   1AS4B    33  2.10  0.20     X    33    33      0      0     16  antichymotrypsin
+   25   1IRK_   303  2.10  0.20     X   303   303      0    119     52  Insulin receptor (tyrosine kinase domain) mutant with cys 981 replaced by ser and tyr 984 replaced by phe (c981s, y984f)
+   25   1CSBB   205  2.10  0.19     X   205   205      0     42     61  cathepsin b
+   25   1AXIB   191  2.10  0.19     X   191   191      0      7     89  growth hormone
+   25   1GPL_   432  2.10  0.19     X   432   432      0    107    141  rp2 lipase
+   25   1AX4A   465  2.10  0.19     X   465   465      1    209     77  tryptophanase
+   25   1RYT_   190  2.10  0.18     X   190   190      0    112     21  rubrerythrin
+   25   1PTA_   318  2.10  0.18     X   318   318      0    157     44  phosphotriesterase
+   25   2TCT_   198  2.10  0.18     X   198   198      0    142      0  tetracycline repressor
+   25   1OTGA   125  2.10  0.18     X   125   125      0     50     42  5-carboxymethyl-2-hydroxymuconate isomerase
+   25   2DKB_   431  2.10  0.18     X   431   431      0    174     80  2,2-dialkylglycine decarboxylase (pyruvate) (dgd) 
+   25   1RLAA   314  2.10  0.18     X   314   314      0    132     54  arginase
+   25   1FJMA   294  2.10  0.18     X   294   294      0    102     56  protein serineTHREONINE PHOSPHATASE-1 (alpha isoform, type 1)
+   25   1VHRA   178  2.10  0.18     X   178   178      0     79     23  human vh1-related dual-specificity phosphatase vhr
+   25   1DEAA   266  2.10  0.17     X   266   266      0    115     44  glucosamine 6-phosphate deaminase
+   25   1EFVA   312  2.10  0.17     X   312   312      0    100     93  electron transfer flavoprotein
+   25   1EFVB   252  2.10  0.17     X   252   252      0     77     77  electron transfer flavoprotein
+   25   1SMNA   241  2.10  0.17     X   241   241      0     64     53  extracellular endonuclease
+   25   2HHMA   272  2.10  0.17     X   272   272      0     90     60  Human inositol monophosphatase dimer complex with gadolinium and sulfate
+   25   1ESC_   302  2.10  0.17     X   302   302      0    121     41  esterase
+   25   1AA7B   157  2.08  0.21     X   157   157      0    107      0  influenza virus matrix protein
+   25   1TFR_   283  2.06  0.20     X   283   283      0    156     31  t4 rnase h
+   25   1HSSA   111  2.06  0.19     X   111   111      0     51      6  0.19 alpha-amylase inhibitor
+   25   1VDFA    46  2.05  0.18     X    46    46      0     37      0  cartilage oligomeric matrix protein
+   25   3MINC   468  2.03  0.21     X   468   468      0    229     69  nitrogenase molybdenum iron protein
+   25   3MINB   522  2.03  0.21     X   522   522      0    272     56  nitrogenase molybdenum iron protein
+   25   1AIKC    34  2.00  0.24     X    34    34      0     32      0  hiv-1 gp41 glycoprotein
+   25   1AOL_   228  2.00  0.22     X   227   227      0     51     60  gp70
+   25   1ALY_   146  2.00  0.22     X   146   146      0      3     76  cd40 ligand
+   25   1WPOB   212  2.00  0.22     X   212   212      3     74     50  human cytomegalovirus protease
+   25   1REQD   622  2.00  0.22     X   620   622      0    298     73  methylmalonyl-coa mutase
+   25   1VIN_   252  2.00  0.22     X   252   252      0    170      0  cyclin a
+   25   1A6Q_   363  2.00  0.21     X   363   363      0    136     98  phosphatase 2c
+   25   1FMTB   307  2.00  0.21     X   307   307      0     94     84  methionyl-trna fmet formyltransferase
+   25   1HAVA   216  2.00  0.21     X   216   216      0     40    101  hepatitis a virus 3c proteinase
+   25   1A1X_   106  2.00  0.21     X   106   106      0      4     51  hmtcp-1
+   25   2LBD_   238  2.00  0.21     X   238   238      0    156     10  retinoic acid receptor gamma
+   25   1CSN_   293  2.00  0.21     X   293   293      0    107     54  casein kinase-1
+   25   1GOTG    58  2.00  0.21     X    58    58      0     40      0  gt-alphaGI-ALPHA CHIMERA
+   25   1GOTB   339  2.00  0.21     X   339   339      0     26    164  gt-alphaGI-ALPHA CHIMERA
+   25   1SPUA   718  2.00  0.21     X   718   718      1     91    313  copper amine oxidase
+   25   1BTN_   106  2.00  0.20     X   106   106      0     19     40  beta-spectrin
+   25   1BFTA   101  2.00  0.20     X   101   101      0      9     47  nuclear factor nf-kappa-b p65
+   25   1CFB_   205  2.00  0.20     X   205   205      0      3     91  Drosophila neuroglian (chymotryptic fragment containing the two amino proximal fibronectin type iii repeats (residues 610 - 814))
+   25   1BBPA   173  2.00  0.20     X   173   173      0     23     83  Bilin binding protein (BBP)
+   25   1MSC_   129  2.00  0.20     X   129   129      0     22     46  Bacteriophage ms2 unassembled coat protein dimer (translational repressor, assembly-defective) mutant with trp 82 replaced by arg (w82r)
+   25   1ECPA   237  2.00  0.20     X   237   237      0     85     71  purine nucleoside phosphorylase
+   25   1AF7_   275  2.00  0.20     X   275   275      1    118     51  chemotaxis receptor methyltransferase cher
+   25   1AMX_   150  2.00  0.20     X   150   150      0     12     81  collagen adhesin
+   25   1HOE_    74  2.00  0.20     X    74    74      0      0     36  Alpha-Amylase inhibitor hoe-467A
+   25   1BV1_   159  2.00  0.20     X   159   159      0     40     64  bet v 1
+   25   2PGD_   473  2.00  0.20     X   473   473      0    266     44  6-phosphogluconate dehydrogenase (6-pgdh) 
+   25   2PLC_   274  2.00  0.20     X   274   274      0     99     64  phosphatidylinositol-specific phospholipase c
+   25   1CEWI   108  2.00  0.20     X   108   108      0     22     52  Cystatin
+   25   1TAFB    70  2.00  0.20     X    69    69      0     46      2  tfiid tbp associated factor 42
+   25   1TAFA    68  2.00  0.20     X    67    67      0     49      2  tfiid tbp associated factor 42
+   25   4MT2_    61  2.00  0.20     X    61    61      0      0      0  Metallothionein isoform ii
+   25   1SRA_   151  2.00  0.20     X   151   151      0     90      4  sparc
+   25   1WDCA    64  2.00  0.19     X    64    64      0     56      0  scallop myosin
+   25   1VID_   214  2.00  0.19     X   214   214      1    101     49  catechol o-methyltransferase
+   25   1DKZA   215  2.00  0.19     X   215   215      0     89     60  substrate binding domain of dnak
+   25   1R69_    63  2.00  0.19     X    63    63      0     40      0  434 repressor (amino-terminal domain) (r1-69)
+   25   1POC_   134  2.00  0.19     X   134   134      0     36     28  Phospholipase a2 complex with the transition-state analogue
+   25   1PRXB   218  2.00  0.19     X   218   218      1     65     50  horf6
+   25   1AOCA   175  2.00  0.19     X   175   175      0     32     50  coagulogen
+   25   1GSA_   314  2.00  0.19     X   314   314      0    109     92  glutathione synthetase
+   25   1JPC_   108  2.00  0.19     X   108   108      0      0     47  agglutinin
+   25   2PIA_   321  2.00  0.19     X   321   321      0     54     97  Phthalate dioxygenase reductase (e.C.1.18.1.)
+   25   5CSMA   250  2.00  0.19     X   250   250      0    153      0  chorismate mutase
+   25   1NBAB   252  2.00  0.19     X   252   252      0    102     38  N-carbamoylsarcosine amidohydrolase 
+   25   1LKI_   172  2.00  0.19     X   172   172      0    116      4  Leukemia inhibitory factor (lif)
+   25   1TSP_   544  2.00  0.18     X   544   544      0     47    232  tailspike-protein
+   25   1SVPA   160  2.00  0.18     X   160   160      0      9     73  sindbis virus capsid protein
+   25   1NP1A   184  2.00  0.18     X   184   184      0     23     81  nitrophorin 1
+   25   1A9S_   282  2.00  0.18     X   282   282      0     94     66  purine nucleoside phosphorylase
+   25   2SCPA   174  2.00  0.18     X   174   174      0    111      8  Sarcoplasmic calcium-binding protein
+   25   1ALO_   907  2.00  0.18     X   907   907      0    296    213  aldehyde oxidoreductase
+   25   1WHTB   153  2.00  0.18     X   153   153      0     56     34  Serine carboxypeptidase ii complexed with l-benzylsuccinate
+   25   1RMG_   422  2.00  0.17     X   422   422      0     26    217  rhamnogalacturonase a
+   25   1GKY_   186  2.00  0.17     X   186   186      0     83     42  Guanylate kinase complex with guanosine monophosphate
+   25   1PII_   452  2.00  0.17     X   452   452      0    173     91  N-(5'phosphoribosyl)anthranilate isomerase complex with indole-3-glycerol-phosphate synthase 
+   25   2I1B_   153  2.00  0.17     X   153   153      0      7     72  Interleukin-1Beta (IL-1Beta)
+   25   1AQ0A   306  2.00  0.17     X   306   306      0    124     57  1,3-1,4-beta-glucanase
+   25   1OYC_   399  2.00  0.17     X   399   399      0    153     57  Old yellow enzyme (reduced) (oye) 
+   25   1APYB   141  2.00  0.17     X   141   141      0     32     54  aspartylglucosaminidase
+   25   1AJ2_   282  2.00  0.17     X   282   282      0    131     42  dihydropteroate synthase
+   25   1FWCA   100  2.00  0.17     X   100   100      0     56     18  urease
+   25   1DORA   311  2.00  0.17     X   311   311      0    116     63  dihydroorotate dehydrogenase a
+   25   2HPDA   457  2.00  0.17     X   457   457      0    244     52  Cytochrome p450 (bm-3) (hemoprotein domain) (fatty acid monooxygenase)
+   25   1PNE_   139  2.00  0.17     X   139   139      0     40     43  Profilin
+   25   1MKAA   171  2.00  0.16     X   171   171      0     30     62  beta-hydroxydecanoyl thiol ester dehydrase
+   25   2FIVA   113  2.00  0.16     X   113   113      0      9     57  feline immunodeficiency virus protease
+   25   1RVAA   244  2.00  0.16     X   244   244      0     82     70  Eco rv endonuclease complexed with substrate DNA
+   25   1TRKA   678  2.00  0.16     X   678   678      0    303     88  Transketolase 
+   25   2RSPB   113  2.00  0.14     X   113   113      0      7     47  Rous sarcoma virus protease (RSV PR)
+   25   3PCGM   233  1.96  0.17     X   233   233      0     22     70  protocatechuate 3,4-dioxygenase
+   25   1GARA   205  1.96  0.17     X   196   204      0     68     48  Glycinamide ribonucleotide transformylase (10-formyltetrahydrofolate-5'-phosphoribosylglycinamide formyltransferase) complexed with burroughs-wellcome inhibitor 1476u89
+   25   1OSPO   251  1.95  0.23     X   251   251      0     17    133  fab 184.1
+   25   2PSPA   106  1.95  0.20     X   106   106      1     29     10  porcine pancreatic spasmolytic polypeptide
+   25   1PTQ_    50  1.95  0.20     X    50    50      0      4     12  protein kinase c delta type
+   25   1AQ6A   245  1.95  0.19     X   245   245      0    138     30  l-2-haloacid dehalogenase
+   25   1LTSA   185  1.95  0.18     X   185   185      0     59     43  Heat-labile enterotoxin (lt)
+   25   1FURA   456  1.95  0.17     X   456   456      0    278     35  fumarase c
+   25   1OVAA   385  1.95  0.17     X   383   385      0    126    126  Ovalbumin (egg albumin)
+   25   1KWAB    86  1.93  0.25     X    85    86      0     15     34  hcaskLIN-2 PROTEIN
+   25   1URNA    96  1.92  0.21     X    96    96      0     31     24  u1a spliceosomal protein
+   25   1FUA_   206  1.92  0.19     X   206   206      0     91     35  l-fuculose-1-phosphate aldolase
+   25   1RYP2   233  1.90  0.29     X   233   233      0      0      0  20s proteasome
+   25   1RYPI   222  1.90  0.29     X   222   222      0      0      0  20s proteasome
+   25   1RYPJ   204  1.90  0.29     X   204   204      0      0      0  20s proteasome
+   25   1RYPF   233  1.90  0.29     X   233   233      0      0      0  20s proteasome
+   25   1RYP1   222  1.90  0.29     X   222   222      0      0      0  20s proteasome
+   25   1RSS_   140  1.90  0.23     X   140   140      0     83     16  ribosomal protein s7
+   25   1OIS_   221  1.90  0.22     X   220   220      0     68     42  DNA topoisomerase i
+   25   1HSBA   270  1.90  0.22     X   270   270      0     72    107  Class i histocompatibility antigen aw68.1 (leucocyte antigen)
+   25   1AT0_   145  1.90  0.22     X   145   145      3      6     86  17-hedgehog
+   25   1ECL_   552  1.90  0.22     X   552   552      0    251    109  escherichia coli topoisomerase i
+   25   1SKZ_   104  1.90  0.22     X   104   104      0      7     22  antistasin
+   25   1NEU_   115  1.90  0.21     X   115   115      0      6     59  myelin p0 protein
+   25   1IAKA   182  1.90  0.21     X   182   182      0     27     81  mhc class ii i-ak
+   25   1ALU_   157  1.90  0.21     X   157   157      0    114      0  interleukin-6
+   25   1AMUA   509  1.90  0.21     X   509   509      0    151    139  gramicidin synthetase 1
+   25   1MLDA   313  1.90  0.21     X   313   313      0    150     57  Malate dehydrogenase 
+   25   1STMA   141  1.90  0.21     X   141   141      0      8     63  satellite panicum mosaic virus
+   25   1MAI_   119  1.90  0.20     X   119   119      0     35     37  phospholipase c delta-1
+   25   1CLC_   541  1.90  0.20     X   541   541      0    202     79  endoglucanase celd
+   25   1AD2_   224  1.90  0.20     X   224   224      0     71     49  ribosomal protein l1
+   25   1AOZA   552  1.90  0.20     X   552   552      0     55    210  Ascorbate oxidase 
+   25   1AGQD    95  1.90  0.20     X    95    95      0     15     36  glial cell-derived neurotrophic factor
+   25   1YASA   256  1.90  0.20     X   256   256      0    105     48  hydroxynitrile lyase
+   25   1OPY_   123  1.90  0.20     X   123   123      0     39     50  delta5-3-ketosteroid iosmerase
+   25   1EDT_   265  1.90  0.20     X   265   265      0     91     69  Endo-beta-n-acetylglucosaminidase h, endo h 
+   25   7AHLA   293  1.90  0.20     X   293   293      0     14    171  alpha-hemolysin
+   25   1FLEI    47  1.90  0.20     X    47    47      0      3     11  elastase
+   25   1DXY_   330  1.90  0.20     X   330   330      0    139     55  d-2-hydroxyisocaproate dehydrogenase
+   25   1JDW_   360  1.90  0.20     X   360   360      0    105     85  l-arginine
+   25   3DAAA   277  1.90  0.20     X   277   277      0     82     87  d-amino acid aminotransferase
+   25   1LATB    74  1.90  0.20     X    74    74      0     25      8  glucocorticoid receptor
+   25   1NCIB    96  1.90  0.20     X    96    96      0      0     44  n-cadherin
+   25   1AK1_   308  1.90  0.20     X   308   308      0    153     54  ferrochelatase
+   25   2CHSA   114  1.90  0.19     X   114   114      0     35     33  Chorismate mutase 
+   25   2KINB   100  1.90  0.19     X   100   100      0     58     18  kinesin
+   25   2KINA   238  1.90  0.19     X   238   238      0     63     83  kinesin
+   25   1CEO_   332  1.90  0.19     X   332   332      0    149     55  cellulase celc
+   25   1SFTB   380  1.90  0.19     X   380   380      0    124    102  alanine racemase
+   25   1BGP_   309  1.90  0.19     X   309   309      0    156     14  barley grain peroxidase
+   25   1REC_   185  1.90  0.19     X   185   185      0    121     10  Recoverin (calcium sensor in vision)
+   25   1ALVA   173  1.90  0.19     X   173   173      0    110      9  calpain
+   25   1PNKB   557  1.90  0.19     X   557   557      0    142    149  penicillin amidohydrolase
+   25   3BCL_   344  1.90  0.19     X   344   344      0     60    170  Bacteriochlorophyll-a protein
+   25   1IDK_   359  1.90  0.19     X   359   359      0     44    138  pectin lyase a
+   25   1LIS_   131  1.90  0.19     X   131   131      0     94      0  Lysin
+   25   2FHA_   172  1.90  0.19     X   172   172      0    125      0  ferritin
+   25   1RSY_   135  1.90  0.19     X   135   135      0     13     61  Synaptotagmin i (first c2 domain) (calb)
+   25   1ISO_   414  1.90  0.19     X   413   413      0    169     77  isocitrate dehydrogenase
+   25   1SVB_   395  1.90  0.18     X   395   395      0     33    193  tick-borne encephalitis virus glycoprotein
+   25   1AIL_    70  1.90  0.18     X    70    70      0     59      0  nonstructural protein ns1
+   25   1CPO_   299  1.90  0.18     X   299   299      1    113     17  chloroperoxidase
+   25   1WHO_    94  1.90  0.18     X    94    94      0      0     47  allergen phl p 2
+   25   1REGY   120  1.90  0.18     X   120   120      0     35     35  t4 rega
+   25   1KVU_   338  1.90  0.18     X   338   338      0    139     61  udp-galactose 4-epimerase
+   25   1CHMA   401  1.90  0.18     X   401   401      0    150     95  Creatine amidinohydrolase 
+   25   1VPSA   285  1.90  0.18     X   285   285      0     20    113  polyomavirus vp1 pentamer
+   25   1HGXA   164  1.90  0.17     X   164   164      0     38     58  hypoxanthine-guanine-xanthine phosphoribosyltransferase
+   25   3TSS_   190  1.90  0.17     X   190   190      0     31     81  toxic shock syndrome toxin-1
+   25   1SFP_   111  1.90  0.17     X   111   111      0      0     61  asfp
+   25   2TYSA   255  1.90  0.17     X   255   255      0    139     35  tryptophan synthase
+   25   1GIFA   115  1.90  0.17     X   115   115      0     44     35  glycosylation-inhibiting factor
+   25   1SLTA   133  1.90  0.17     X   130   133      0      0     82  S-lectin (a vertebrate 14 kda beta-galactoside binding protein) complex with n-acetyllactosamine
+   25   1EDE_   310  1.90  0.16     X   310   310      0    129     44  Haloalkane dehalogenase at ph 8.2
+   25   1ADOA   363  1.90  0.16     X   363   363      0    167     52  aldolase
+   25   1DUN_   120  1.90  0.16     X   120   120      0      5     50  deoxyuridine 5'-triphosphate nucleoditohydrolase
+   25   1DUPA   136  1.90  0.15     X   136   136      0      7     57  deoxyuridine 5'-triphosphate nucleotidohydrolase
+   25   1BYB_   491  1.90  0.15     X   490   490      0    196     61  Beta-amylase reacted with 200 mm maltose and complexed with maltotetraose
+   25   1YAIC   150  1.90  0.15     X   150   150      0     11     58  copper, zinc superoxide dismutase
+   25   1JFRA   260  1.90  0.14     X   260   260      0     77     58  lipase
+   25   2PII_   112  1.90  0.13     X   112   112      0     29     33  pii
+   25   1ONRA   316  1.87  0.20     X   316   316      0    178     40  transaldolase b
+   25   1LML_   465  1.86  0.19     X   465   465      0    109    116  leishmanolysin
+   25   1FIT_   126  1.85  0.20     X   126   126      2     42     31  fragile histidine protein
+   25   1VLS_   146  1.85  0.20     X   146   146      0    118      0  aspartate receptor
+   25   1DOKA    72  1.85  0.19     X    72    72      0     20     20  monocyte chemoattractant protein 1
+   25   1PUD_   372  1.85  0.19     X   372   372      0    173     69  trna-guanine transglycosylase
+   25   2ABK_   211  1.85  0.18     X   211   211      0    128      0  endonuclease iii
+   25   1PTY_   300  1.85  0.18     X   300   300      2    109     60  protein tyrosine phosphatase 1b
+   25   1MUCA   360  1.85  0.17     X   359   360      0    153     78  muconate lactonizing enzyme
+   25   1A7TA   227  1.85  0.15     X   227   227      0     63     74  metallo-beta-lactamase
+   25   1QBA_   858  1.85  0.15     X   858   858      0    249    191  chitobiase
+   25   1TIB_   269  1.84  0.19     X   269   269      0     90     63  Lipase (triacylglycerol acylhydrolase)
+   25   2HTS_    88  1.83  0.19     X    88    88      0     35     12  Heat shock transcription factor (DNA binding domain)
+   25   1GND_   430  1.81  0.20     X   430   430      0    150    103  guanine nucleotide dissociation inhibitor
+   25   1A34A   147  1.81  0.18     X   147   147      0     10     57  satellite tobacco mosaic virus
+   25   1UCH_   206  1.80  0.23     X   206   206      0     81     43  ubiquitin c-terminal hydrolase uch-l3
+   25   1HCRA    52  1.80  0.23     X    52    52      0     25      1  Hin recombinase (DNA-binding domain) complexed with DNA
+   25   1V39_   292  1.80  0.22     X   292   292      1    119     50  vp39
+   25   1NFN_   132  1.80  0.21     X   132   132      0    113      0  apolipoprotein e3
+   25   1AK0_   264  1.80  0.21     X   264   264      0    169     11  p1 nuclease
+   25   2SPCA   107  1.80  0.20     X   107   107      0     97      0  Spectrin (one repeat unit)
+   25   1VCAA   199  1.80  0.20     X   199   199      0      9    113  human vascular cell adhesion molecule-1
+   25   1UXY_   340  1.80  0.20     X   340   340      0    102     98  uridine diphospho-n-acetylenolpyruvylglucosamine reductase
+   25   1YTBA   180  1.80  0.20     X   180   180      0     49     61  Tata-box binding protein (ytbp) complexed with DNA containing tata-box
+   25   1LCL_   141  1.80  0.20     X   141   141      0      6     75  lysophospholipase
+   25   1A68_    87  1.80  0.20     X    87    87      0     31     18  potassium channel kv1.1
+   25   1MUGA   165  1.80  0.20     X   165   165      0     66     29  g
+   25   1POT_   322  1.80  0.20     X   322   322      0    127     62  spermidinePUTRESCINE-BINDING PROTEIN
+   25   1MML_   251  1.80  0.20     X   251   251      0     78     62  mmlv reverse transcriptase
+   25   1MSK_   328  1.80  0.20     X   328   328      1    131     56  cobalamin-dependent methionine synthase
+   25   1QNF_   475  1.80  0.20     X   475   475      0    248     27  photolyase
+   25   1NPK_   150  1.80  0.20     X   150   150      0     65     26  Nucleoside diphosphate kinase 
+   25   1AYL_   532  1.80  0.20     X   532   532      0    166    122  phosphoenolpyruvate carboxykinase
+   25   1MPGA   282  1.80  0.19     X   282   282      0    138     32  3-methyladenine DNA glycosylase ii
+   25   1NBCA   155  1.80  0.19     X   155   155      0      6     86  cellulosomal scaffolding protein a
+   25   1SLUA   131  1.80  0.19     X   131   131      0      7     63  ecotin
+   25   1NULB   136  1.80  0.19     X   136   136      0     41     35  xanthine-guanine phosphoribosyltransferase
+   25   1TIF_    76  1.80  0.19     X    76    76      0     27     23  translation initiation factor 3
+   25   1A28B   249  1.80  0.19     X   249   249      0    170     13  progesterone receptor
+   25   1WBA_   171  1.80  0.19     X   171   171      0      0     81  winged bean albumin 1
+   25   1LMB3    87  1.80  0.19     X    87    87      0     62      0  Lambda repressorOPERATOR COMPLEX
+   25   1BDO_    80  1.80  0.19     X    80    80      0      0     36  acetyl-coa carboxylase
+   25   1IIBA   103  1.80  0.19     X   103   103      0     59     21  enzyme iib of the cellobiose-specific phosphotransferase system
+   25   1AFWA   390  1.80  0.19     X   390   390      0    163     83  3-ketoacetyl-coa thiolase
+   25   2POR_   301  1.80  0.19     X   301   301      0     20    177  Porin (crystal form b)
+   25   1UAE_   418  1.80  0.18     X   418   418      0    143    113  udp-n-acetylglucosamine enolpyruvyl transferase
+   25   1TML_   286  1.80  0.18     X   286   286      0    110     37  Endo-1,4-beta-d-glucanase 
+   25   1TYS_   265  1.80  0.18     X   265   265      1     97     68  Thymidylate synthase mutant with cys 146 replaced by ser (c146s)
+   25   2SAK_   121  1.80  0.18     X   121   121      0     12     54  staphylokinase
+   25   1BEBA   156  1.80  0.18     X   156   156      0     25     66  beta-lactoglobulin
+   25   1UNKA    87  1.80  0.18     X    87    87      0     51      0  colicin e7
+   25   1FNA_    91  1.80  0.18     X    91    91      0      0     42  Fibronectin cell-adhesion module type iii-10
+   25   1GDOA   238  1.80  0.18     X   238   238      0     60     80  glucosamine 6-phosphate synthase
+   25   1AL3_   237  1.80  0.18     X   237   237      0     83     65  cys regulon transcriptional activator cysb
+   25   1GD1O   334  1.80  0.18     X   334   334      0     98    100  holo-D-Glyceraldehyde-3-phosphate dehydrogenase 
+   25   2SICI   107  1.80  0.18     X   107   107      0     16     38  Subtilisin BPN' complex with streptomyces subtilisin inhibitor
+   25   1HXN_   210  1.80  0.18     X   208   209      0     27     72  hemopexin
+   25   1VIF_    60  1.80  0.18     X    60    60      0      3     26  dihydrofolate reductase
+   25   1AOQA   551  1.80  0.18     X   551   551      0     83    201  nitrite reductase
+   25   1ATZB   189  1.80  0.17     X   189   189      0     75     41  von willebrand factor
+   25   1GUQA   347  1.80  0.17     X   347   347      0    102     73  galactose-1-phosphate uridylyltransferase
+   25   2TGI_   112  1.80  0.17     X   112   112      0     24     46  Transforming growth factor-beta two (tgf-b2)
+   25   1KVEB    77  1.80  0.17     X    77    77      0     14     28  smk toxin
+   25   1KVEA    63  1.80  0.17     X    63    63      0     26     16  smk toxin
+   25   2ACY_    98  1.80  0.17     X    98    98      0     24     41  acylphosphatase
+   25   1BDMB   327  1.80  0.17     X   326   326      0    150     62  Malate dehydrogenase mutant with thr 189 replaced by ile (t189i) complexed with beta-6-hydroxy- 1,4,5,6-tetrahydronicotinamide adenine dinucleotide (referred to as (6htn)ad, or nadhx)
+   25   1PGS_   311  1.80  0.17     X   311   311      0     15    145  Peptide-n(4)-(n-acetyl-beta-d-glucosaminyl) asparagine amidase (n-glycosidase f) (png-ase f) 
+   25   1UBI_    76  1.80  0.17     X    76    76      0     19     26  Ubiquitin
+   25   1LBU_   213  1.80  0.16     X   213   213      0     77     23  muramoyl-pentapeptide carboxypeptidase
+   25   1AMP_   291  1.80  0.16     X   291   291      0    115     50  Aminopeptidase (aeromonas proteolytica) 
+   25   1ATLA   200  1.80  0.16     X   200   200      0     78     39  atrolysin c
+   25   1NAR_   289  1.80  0.16     X   289   289      0    108     67  Narbonin
+   25   3COX_   500  1.80  0.16     X   500   500      0    134    114  Cholesterol oxidase 
+   25   1CYDA   242  1.80  0.15     X   242   242      0    122     41  carbonyl reductase
+   25   2NACA   374  1.80  0.15     X   374   374      0    126     66  Nad-dependent formate dehydrogenase (apo form)
+   25   2BAA_   243  1.80  0.00     X   243   243      0    107      3  endochitinase (26 kd)
+   25   1A8I_   813  1.78  0.18     X   813   813      1    430    125  glycogen phosphorylase b
+   25   1AXN_   323  1.78  0.18     X   323   323      0    229      0  annexin iii
+   25   1MZM_    93  1.78  0.17     X    93    93      0     57      0  maize nonspecific lipid transfer protein
+   25   2VHBB   137  1.76  0.20     X   137   137      0    116      0  hemoglobin
+   25   1PDA_   296  1.76  0.19     X   296   296      0    109     71  Porphobilinogen deaminase 
+   25   1HA1_   167  1.75  0.20     X   167   167      0     40     63  hnrnp a1
+   25   1TVXA    64  1.75  0.20     X    64    64      0     15     20  neutrophil activating peptide 2 variant
+   25   1XGSA   295  1.75  0.19     X   295   295      0     93     84  methionine aminopeptidase
+   25   1CHD_   198  1.75  0.18     X   198   198      0     63     54  cheb methylesterase
+   25   6GSVA   217  1.75  0.18     X   217   217      0    106     20  mu class glutathione s-transferase of isoenzyme 3-3
+   25   1KPTA   105  1.75  0.17     X   105   105      0     33     28  kp4 toxin
+   25   2BBKH   355  1.75  0.17     X   355   355      0     11    178  Methylamine dehydrogenase (madh) 
+   25   2BBKL   125  1.75  0.17     X   125   125      0     13     41  Methylamine dehydrogenase (madh) 
+   25   1THV_   207  1.75  0.17     X   207   207      0     25     81  Thaumatin isoform a (orthorhombic crystal form)
+   25   3CLA_   213  1.75  0.16     X   210   213      0     63     61  Type III chloramphenicol acetyltransferase (CAT=III=) complex with chloramphenicol
+   25   1XJO_   271  1.75  0.14     X   270   271      1    111     57  aminopeptidase
+   25   1PCFA    66  1.74  0.20     X    66    66      0     20     34  transcriptional coactivator pc4
+   25   1A2ZA   220  1.73  0.22     X   220   220      0     74     53  pyrrolidone carboxyl peptidase
+   25   1AQZB   143  1.70  0.24     X   143   143      0     14     52  restrictocin
+   25   1AM3_    70  1.70  0.23     X    70    70      0     43      0  hiv capsid
+   25   1BGC_   158  1.70  0.21     X   158   158      0    115      0  Granulocyte colony-stimulating factor (rbg-csf)
+   25   1TADC   318  1.70  0.21     X   318   318      0    163     43  Transducin-alpha (gt-alpha-gdp-alf, t-alpha-gdp-alf) complexed with gdp and aluminum fluoride
+   25   1AJJ_    37  1.70  0.21     X    37    37      0      6      4  low-density lipoprotein receptor
+   25   1TFE_   142  1.70  0.21     X   142   142      0     75     35  elongation factor ts
+   25   1XIKA   340  1.70  0.21     X   340   340      0    237     14  protein r2 of ribonucleotide reductase
+   25   1AZO_   214  1.70  0.20     X   214   214      2     68     42  muth
+   25   1BA1_   378  1.70  0.20     X   378   378      0    152    108  heat-shock cognate 70kd protein
+   25   1IDO_   184  1.70  0.20     X   184   184      0     76     42  integrin
+   25   2CYP_   293  1.70  0.20     X   292   293      0    147     22  Cytochrome c peroxidase (ferrocytochrome c (colon) h2O2 reductase)
+   25   2BOPA    85  1.70  0.20     X    85    85      0     27     30  Bovine papillomavirus-1 e2 (DNA-binding domain) (residues 325 - 410) complexed with DNA
+   25   1VJS_   469  1.70  0.20     X   469   469      0    134    109  alpha-amylase
+   25   4PGAA   330  1.70  0.20     X   330   330      0    106     72  glutaminase-asparaginase
+   25   1FVKA   188  1.70  0.20     X   188   188      0     98     21  disulfide bond formation protein
+   25   1IDAA    99  1.70  0.20     X    99    99      0      7     52  Human immunodeficiency virus type 2 (hiv-2) protease complexed with the inhibitor bila 1906 containing the hydroxyethylamine dipeptide isostere
+   25   1WAB_   212  1.70  0.20     X   212   212      0     96     28  platelet-activating factor acetylhydrolase
+   25   1AOHA   143  1.70  0.19     X   143   143      0      4     82  cellulosome-integrating protein cipa
+   25   1VHH_   157  1.70  0.19     X   157   157      0     46     31  sonic hedgehog
+   25   6CEL_   434  1.70  0.19     X   434   434      1     52    157  1,4-beta-d-glucan cellobiohydrolase i
+   25   1PDO_   129  1.70  0.19     X   129   129      0     60     21  mannose permease
+   25   1AGJA   242  1.70  0.18     X   242   242      0     54     81  epidermolytic toxin a
+   25   1FDR_   244  1.70  0.18     X   244   244      0     61     82  flavodoxin reductase
+   25   1PMI_   440  1.70  0.18     X   440   440      0    136    124  phosphomannose isomerase
+   25   1MTYB   384  1.70  0.18     X   384   384      0    245      2  methane monooxygenase hydroxylase
+   25   1MTYD   512  1.70  0.18     X   512   512      0    300     22  methane monooxygenase hydroxylase
+   25   1MTYG   162  1.70  0.18     X   162   162      0    107      4  methane monooxygenase hydroxylase
+   25   1KID_   193  1.70  0.18     X   193   193      0     87     43  groel (hsp60 class)
+   25   1FDS_   282  1.70  0.18     X   282   282      0    151     42  17-beta-hydroxysteroid-dehydrogenase
+   25   1SBP_   309  1.70  0.18     X   309   309      0    154     56  Sulfate-binding protein
+   25   1ONC_   104  1.70  0.18     X   104   104      1     20     42  P-30 protein
+   25   1THX_   108  1.70  0.17     X   108   108      0     39     28  thioredoxin
+   25   1MOLA    94  1.70  0.17     X    94    94      0     17     50  Monellin (single-chain, fused)
+   25   2MSBB   113  1.70  0.17     X   112   112      0     24     38  Mannose-binding protein a (lectin domain) complex with calcium and glycopeptide
+   25   1LT5D   103  1.70  0.17     X   103   103      0     23     42  heat-labile enterotoxin
+   25   1AKO_   268  1.70  0.17     X   268   268      0     88     79  exonuclease iii
+   25   1KNB_   186  1.70  0.16     X   186   186      0      9     76  Adenovirus type 5 fiber protein (receptor binding domain consisting of residues 386 - 581, knob domain)
+   25   2GDM_   153  1.70  0.16     X   153   153      0    118      0  leghemoglobin (oxy)
+   25   1VSD_   146  1.70  0.15     X   146   146      0     68     27  integrase
+   25   1GAI_   472  1.70  0.15     X   472   472      0    228     34  glucoamylase-471
+   25   2HFT_   205  1.69  0.20     X   205   205      0     19     98  human tissue factor
+   25   1MWE_   388  1.70  0.00     X   388   388      0     12    175  neuraminidase
+   25   2CCYA   127  1.67  0.19     X   127   127      0     95      2  Cytochrome c'
+   25   1ANF_   370  1.67  0.18     X   369   369      0    161     77  maltodextrin-binding protein
+   25   1DOSA   358  1.67  0.17     X   358   358      0    178     36  aldolase class ii
+   25   1CPCB   172  1.66  0.18     X   172   172      0    128      0  C-phycocyanin
+   25   2HMZA   113  1.66  0.18     X   113   113      0     77      1  Hemerythrin (adizomet)
+   25   3CHY_   128  1.66  0.15     X   128   128      0     58     22  CheY
+   25   5HPGA    84  1.66  0.02     X    84    84      0      0     13  plasminogen
+   25   1ERV_   105  1.65  0.21     X   105   105      0     43     28  thioredoxin
+   25   1YVEI   513  1.65  0.20     X   513   513      0    285     54  acetohydroxy acid isomeroreductase
+   25   1AQB_   175  1.65  0.19     X   175   175      0     20     84  retinol-binding protein
+   25   1YER_   207  1.65  0.19     X   207   207      0     89     48  heat shock protein 90
+   25   1PHNA   162  1.65  0.18     X   162   162      0    126      0  phycocyanin
+   25   1CNV_   283  1.65  0.17     X   283   283      0    104     62  concanavalin b
+   25   119L_   162  1.65  0.16     X   162   162      0    106     15  Lysozyme mutant with cys 54 replaced by thr, cys 97 replaced by ala, ala 134 replaced by ser (c54t,C97a, a134s)
+   25   1CEM_   363  1.65  0.16     X   363   363      0    186     22  cellulase cela (1,4-beta-d-glucan-glucanohydrolase)
+   25   1PHP_   394  1.65  0.16     X   394   394      0    167     67  3-phosphoglycerate kinase (pgk) 
+   25   1HTRP    43  1.62  0.18     X    43    43      0     17      7  Progastricsin (pepsinogen c) 
+   25   1BTKB   169  1.60  0.23     X   169   169      0     25     60  bruton's tyrosine kinase
+   25   1WER_   324  1.60  0.22     X   324   324      0    228      0  p120gap
+   25   1VCC_    77  1.60  0.22     X    77    77      0     11     26  DNA topoisomerase i
+   25   8RUCI   123  1.60  0.21     X   123   123      0     27     29  ribulose-1,5-bisphosphate carboxylaseOXYGENASE
+   25   1GVP_    87  1.60  0.21     X    87    87      0      6     40  gene v protein
+   25   1ADS_   315  1.60  0.20     X   314   315      0    121     47  Aldose reductase complex with nadph
+   25   1JER_   110  1.60  0.20     X   109   110      0     19     29  cucumber stellacyanin
+   25   2DRI_   271  1.60  0.19     X   271   271      0    122     61  D-ribose-binding protein complexed with beta-d-ribose
+   25   1A1IA    85  1.60  0.19     X    85    85      0     34     12  radr zinc finger peptide
+   25   1EDG_   380  1.60  0.19     X   380   380      0    157     46  endoglucanase a
+   25   1PHE_   405  1.60  0.19     X   405   405      0    207     44  Cytochrome p450-cam (camphor 5-monoxygenase) complex with 2-phenyl imidazole
+   25   1BKF_   107  1.60  0.19     X   107   107      0     13     43  fk506 binding protein
+   25   1SMD_   496  1.60  0.18     X   496   496      1    137    117  amylase
+   25   1DAD_   224  1.60  0.18     X   224   224      0     87     48  dethiobiotin synthetase
+   25   1AOP_   456  1.60  0.18     X   456   456      0    157    105  sulfite reductase hemoprotein
+   25   1A8E_   329  1.60  0.18     X   329   329      0    116     71  serum transferrin
+   25   1NWPA   128  1.60  0.18     X   128   128      0     24     46  azurin
+   25   3NUL_   130  1.60  0.18     X   130   130      3     36     43  profilin i
+   25   1MRP_   309  1.60  0.18     X   309   309      0    145     54  ferric iron binding protein
+   25   1ARV_   336  1.60  0.18     X   336   336      0    146     22  peroxidase
+   25   1NIF_   333  1.60  0.17     X   333   333      0     35    135  nitrite reductase
+   25   3CYR_   107  1.60  0.17     X   107   107      0     32     12  cytochrome c3
+   25   1MRJ_   247  1.60  0.17     X   247   247      0     99     62  Alpha-trichosanthin complexed with adenine
+   25   1AJSA   413  1.60  0.17     X   413   413      1    189     55  aspartate aminotransferase
+   25   1ZIN_   217  1.60  0.17     X   217   217      0    112     35  adenylate kinase
+   25   1LAM_   484  1.60  0.17     X   484   484      0    186    104  leucine aminopeptidase
+   25   2SIL_   381  1.60  0.17     X   381   381      0     22    175  Sialidase (neuraminidase)
+   25   1CSH_   435  1.60  0.16     X   435   435      0    269     14  Citrate synthase complexed with oxaloacetate and amidocarboxymethyldethia coenzyme a
+   25   1KUH_   132  1.60  0.16     X   132   132      0     50     30  zinc protease
+   25   2ILK_   155  1.60  0.16     X   153   155      0    108      0  interleukin-10
+   25   1PPN_   212  1.60  0.16     X   212   212      0     55     47  Papain cys-25 with bound atom
+   25   1BFG_   126  1.60  0.15     X   126   126      0     12     52  Basic fibroblast growth factor mutant with cys 69 replaced by ser and cys 87 replaced by ser (c69s,C87s)
+   25   1BFD_   523  1.60  0.15     X   523   523      0    212     94  benzoylformate decarboxylase
+   25   153L_   185  1.60  0.15     X   185   185      0    103      8  Lysozyme 
+   25   3PTE_   347  1.60  0.15     X   347   347      0    119     67  D-alanyl-d-alanine carboxypeptidaseTRANSPEPTIDASE 
+   25   2AYH_   214  1.60  0.14     X   214   214      0     13    111  1,3-1,4-beta-d-glucan 4 glucanohydrolase (beta-glucanase, lichenase) complexed with calcium (synchrotron x-ray diffraction)
+   25   4XIS_   387  1.60  0.14     X   386   386      0    195     39  Xylose isomerase complex with xylose and mnCl2
+   25   1NOX_   200  1.59  0.19     X   200   200      0     96     29  nadh oxidase
+   25   1AWSA   164  1.58  0.26     X   164   164      4     22     51  cyclophilin a
+   25   2A0B_   118  1.57  0.19     X   118   118      0     99      0  hpt domain
+   25   1AKZ_   223  1.57  0.19     X   223   223      0     92     25  uracil-DNA glycosylase
+   25   1HFC_   157  1.56  0.17     X   157   157      0     40     25  Fibroblast collagenase 
+   25   1A62_   125  1.55  0.22     X   125   125      3     37     34  rho
+   25   1LIT_   131  1.55  0.18     X   131   131      0     27     39  lithostathine
+   25   1AVMA   201  1.55  0.17     X   201   201      0    107     26  superoxide dismutase
+   25   1RA9_   159  1.55  0.17     X   159   159      0     40     50  dihydrofolate reductase
+   25   1TCA_   317  1.55  0.16     X   317   317      0    119     48  Lipase (triacylglycerol hydrolase)
+   25   3GRS_   461  1.54  0.19     X   461   461      0    158    116  Glutathione reductase , oxidized form (e)
+   25   1ORC_    64  1.54  0.18     X    64    64      0     25     19  cro repressor insertion mutant k56-[dgevk]
+   25   2CBA_   258  1.54  0.15     X   258   258      0     42     81  Carbonic anhydrase ii (50 mm tris, 3 m ammonium sulfate, ph 7.8)
+   25   1KPF_   111  1.50  0.21     X   111   111      0     33     25  protein kinase c interacting protein
+   25   1A2YA   107  1.50  0.20     X   107   107      0      3     53  monoclonal antibody d1.3
+   25   1AH7_   245  1.50  0.20     X   245   245      0    155      2  phospholipase c
+   25   5ICB_    75  1.50  0.20     X    75    75      0     46      4  calbindin d9k
+   25   1AIE_    31  1.50  0.19     X    31    31      0     20      0  p53
+   25   1WHI_   122  1.50  0.19     X   122   122      0     10     46  ribosomal protein l14
+   25   1RIE_   127  1.50  0.19     X   127   127      0     17     43  rieske iron-sulfur protein
+   25   1OPD_    85  1.50  0.18     X    85    85      0     32     23  histidine-containing protein
+   25   1LUCB   320  1.50  0.18     X   320   320      0    153     53  bacterial luciferase
+   25   2ARCA   161  1.50  0.18     X   161   161      0     41     55  arabinose operon regulatory protein
+   25   1EZM_   298  1.50  0.18     X   298   298      0    118     45  Elastase (zinc metalloprotease)
+   25   1CKAA    57  1.50  0.17     X    56    56      0      3     25  C-crk (n-terminal sh3 domain) (c-crksh3-n) complexed with c3g peptide (pro-pro-pro-ala-leu-pro-pro-lys-lys-arg)
+   25   1ISUA    62  1.50  0.17     X    62    62      0      9     12  High-potential iron-sulfur protein (hipip)
+   25   2MCM_   112  1.50  0.16     X   112   112      0      0     67  Macromomycin
+   25   3B5C_    86  1.50  0.16     X    85    85      0     27     20  Cytochrome b5 (oxidized)
+   25   1EDMB    39  1.50  0.16     X    39    39      0      0     10  factor ix
+   25   1POA_   118  1.50  0.14     X   118   118      0     55     11  Phospholipase a2 
+   25   1BRT_   277  1.50  0.14     X   277   277      0    124     57  bromoperoxidase a2
+   25   2HBG_   147  1.50  0.13     X   147   147      0    114      0  Hemoglobin (deoxy)
+   25   1A2PA   108  1.50  0.12     X   108   108      0     25     25  barnase
+   25   2ENG_   206  1.50  0.10     X   205   205      0     42     56  endoglucanase v
+   25   2SNS_   141  1.50  0.00     X   141   141      0     29     32  Staphylococcal nuclease complex with 2'-deoxy-3'-5'-diphosphothymidine
+   25   8ABP_   305  1.49  0.17     X   303   305      0    145     67  L-Arabinose-binding protein (mutant with met 108 replaced by leu) (M108L) complex with d-Galactose
+   25   1XNB_   185  1.49  0.17     X   185   185      0     10    115  Xylanase (endo-1,4-beta-xylanase) 
+   25   1XSOA   150  1.49  0.10     X   150   150      0      9     63  Cu, zn superoxide dismutase 
+   25   2RN2_   155  1.48  0.20     X   155   155      0     54     47  Ribonuclease h 
+   25   3SEB_   238  1.48  0.18     X   238   238      0     43     92  staphylococcal enterotoxin b
+   25   1G3P_   192  1.46  0.19     X   192   192      1     13     78  minor coat protein
+   25   1VWLB   123  1.45  0.20     X   123   123      0     10     71  streptavidin
+   25   1ABA_    87  1.45  0.17     X    87    87      0     30     18  Glutaredoxin mutant with val 15 replaced by gly and tyr 16 replaced by pro (v15g,Y16p)
+   25   2END_   137  1.45  0.16     X   137   137      0     70      4  Endonuclease v 
+   25   1RPO_    61  1.40  0.19     X    61    61      0     55      0  Rop (cole1 repressor of primer) mutant with ala inserted on either side of asp 31 (ins (a-d31-a))
+   25   1MBD_   153  1.40  0.19     X   153   153      0    119      0  Myoglobin (deoxy, pH 8.4)
+   25   3VUB_   101  1.40  0.19     X   101   101      0     22     38  ccdb
+   25   2PHY_   125  1.40  0.19     X   125   125      0     38     37  photoactive yellow protein
+   25   1ECA_   136  1.40  0.18     X   135   136      0    104      0  Hemoglobin (erythrocruorin, aquo met)
+   25   1XYZA   320  1.40  0.18     X   320   320      0    143     64  1,4-beta-d-xylan-xylanohydrolase
+   25   1SGPI    51  1.40  0.17     X    51    51      0     10     12  streptomyces griseus proteinase b
+   25   256BA   106  1.40  0.16     X   106   106      0     84      0  Cytochrome b562 (oxidized)
+   25   2CTC_   307  1.40  0.16     X   307   307      0    116     54  Carboxypeptidase a complex with l-phenyl lactate (l-o-phe)
+   25   3SDHA   145  1.40  0.16     X   145   145      0    120      0  Hemoglobin i (homodimer) (carbon-monoxy)
+   25   1BENB    30  1.40  0.15     X    30    30      0     14      3  human insulin
+   25   1AWD_    94  1.40  0.15     X    94    94      0     19     29  ferredoxin
+   25   1RCF_   169  1.40  0.14     X   169   169      0     58     37  Flavodoxin complexed with flavin mononucleotide (fmn)
+   25   1NXB_    62  1.38  0.24     X    61    62      0      0     26  Neurotoxin b (probably identical to erabutoxin b)
+   25   1PPT_    36  1.37  0.28     X    36    36      0     18      0  Avian pancreatic polypeptide
+   25   1RHS_   293  1.36  0.17     X   293   293      1     96     44  sulfur-substituted rhodanese
+   25   5P21_   166  1.35  0.20     X   166   166      0     60     44  c-H-ras p21 protein (amino acids 1 - 166) complex with guanosine-5'-(beta,Gamma-imido) triphosphate (gppNp)
+   25   1UTG_    70  1.34  0.23     X    70    70      0     53      0  Uteroglobin (oxidized)
+   25   5PTP_   223  1.34  0.15     X   223   223      1     23     78  beta trypsin
+   25   1PLC_    99  1.33  0.15     X    99    99      0      7     37  Plastocyanin (cu2+, ph 6.0)
+   25   1AAC_   105  1.31  0.15     X   105   105      0      3     52  amicyanin
+   25   1FUS_   106  1.30  0.19     X   106   106      1     16     28  Ribonuclease f1 
+   25   1RRO_   108  1.30  0.18     X   108   108      0     62      4  Rat oncomodulin
+   25   1JHGA   101  1.30  0.13     X   101   101      0     82      0  trp operon repressor
+   25   1C52_   131  1.28  0.19     X   131   131      0     60     16  cytochrome-c552
+   25   7RSA_   124  1.26  0.15     X   124   124      0     26     44  Ribonuclease a (phosphate-free) 
+   25   1MSI_    66  1.25  0.20     X    66    66      0     13     16  type iii antifreeze protein isoform hplc 12
+   25   2WEA_   323  1.25  0.15     X   323   323      0     46    153  penicillopepsin
+   25   1YCC_   108  1.23  0.19     X   108   108      0     44      2  Cytochrome c (isozyme 1) (reduced)
+   25   1JETA   517  1.20  0.23     X   517   517      0    174    114  oligo-peptide binding protein
+   25   2PTH_   193  1.20  0.20     X   193   193      0     87     41  peptidyl-trna hydrolase
+   25   2SN3_    65  1.20  0.19     X    65    65      0      8     16  Scorpion neurotoxin (variant 3)
+   25   1AMM_   174  1.20  0.18     X   174   174      0     16     84  gamma b-crystallin
+   25   1CSEI    63  1.20  0.18     X    63    63      0     14     21  Subtilisin carlsberg (commercial product from serra, heidelberg called subtilisin nagarse) complex with eglin-c
+   25   1CSEE   274  1.20  0.18     X   274   274      0     84     55  Subtilisin carlsberg (commercial product from serra, heidelberg called subtilisin nagarse) complex with eglin-c
+   25   1ARB_   263  1.20  0.15     X   263   263      0     41     85  Achromobacter protease i 
+   25   1IFC_   131  1.19  0.17     X   131   131      0     15     77  Intestinal fatty acid binding protein (apo form 2)
+   25   1RGEA    96  1.15  0.11     X    96    96      0     14     20  ribonuclease
+   25   1IGD_    61  1.10  0.19     X    61    61      0     14     26  Protein g
+   25   1BKRA   108  1.10  0.14     X   108   108      0     67      0  spectrin beta chain
+   25   1CTJ_    89  1.10  0.14     X    89    89      0     51      4  cytochrome c6
+   25   5PTI_    59  1.00  0.20     X    58    58      1     12     15  Trypsin inhibitor (crystal form II)
+   25   8RXNA    52  1.00  0.15     X    52    52      0      9     12  Rubredoxin
+   25   1LKKA   105  1.00  0.13     X   105   105      0     18     30  human p56 tyrosine kinase
+   25   2ERL_    40  1.00  0.13     X    40    40      0     27      0  mating pheromone er-1
+   25   1CEX_   197  1.00  0.09     X   197   197      0     87     30  cutinase
+   25   1IXH_   321  0.98  0.12     X   321   321      0    124     72  phosphate-binding protein
+   25   1AHO_    64  0.96  0.16     X    64    64      0     10     25  toxin ii
+   25   1NLS_   237  0.94  0.13     X   237   237      0      9    111  concanavalin a
+   25   2FDN_    55  0.94  0.10     X    55    55      0      7     10  ferredoxin
+   25   3LZT_   129  0.92  0.09     X   129   129      0     53     14  lysozyme
+   25   1CBN_    46  0.83  0.11     X    46    46      0     16      5  Crambin

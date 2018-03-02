@@ -1,0 +1,7 @@
+genpdbselect* - generate sequence files from pdb files.
+
+Based on code from /home/kuhn/dehom.  Modified and re-written by
+M. Raymer and L. Kuhn, Dept. of Biochemistry, MSU.
+
+For details see the other README files in this directory, and the
+comments in genpdbselectseq.

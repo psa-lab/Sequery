@@ -1,0 +1,32 @@
+To take care of homologous occurrences of proteins in the PDB (e.g.,
+scads of lysozymes, serine proteases...), which skew Sequery's
+structural statistics, a good way to run Sequery is on the
+largest low-homology (<25% seq identity) set of chains in the PDB.
+There are now 505 of them!  Mike Pique recently upgraded the genpdbseq
+program which creates a sequence file of the PDB for Sequery to handle
+a lot of the weird buggy things that occur in the PDB (e.g., multiple
+copies of sequences from NMR files). Mike Raymer and I spent some time
+today making a couple-of-lines modification to allow it to select only 
+the PDB codes and chains that we specify, so that we can run it on only
+the <25% identical PDB chains.  We've also automated the parsing of 
+the PDB_select list of these chains (grab this list from
+http://swift.embl-heidelberg.de/pdbsel/), so that to make a
+"non-homologous" PDB sequence file for Sequery requires one
+command:  
+
+genpdbselectseq  pdb-select-list-file  output-file
+
+genpdbselectseq is a script that runs genpdbselectseq.awk, the chain-selecting 
+modification of Mike Pique's genpdbseq.  These two scripts, plus the most
+recent PDB_select file, are attached below.
+
+As you'll find, the only little problem that occurs is that the PDB_select list
+is usually more up-to-date than the version of PDB you and we have on-line
+(updated quarterly from cd-rom). So you'll want to check the output-file.log
+to see which PDB files it couldn't find, then fetch them from the PDB WWW
+site (www.pdb.bnl.gov, methinks), and run genpdbselectseq.awk only on them,
+and append it to your almost-complete output-file.  Or you could ignore them,
+but it's a shame to waste all those juicy new protein chains!
+
+						Leslie
+----------
