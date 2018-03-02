@@ -1,4 +1,4 @@
-#  Consolv v1.0
+#  Sequery
 
 Please note the following:
 
@@ -139,7 +139,7 @@ Sequence query patterns follow the regular expression rules, as documented in th
 - [Lower-case letters] -- match any of these amino acids (inside the brackets), allowing for substitutions according to the definition file
 - [^Upper-case letters] -- match any sequence not containing any of these amino acids at this position. (i.e. all other amino acids.)
 - [^Lower-case letters] --match any sequence not containing any of these amino acids or their substitutions as allowed for in the definition file at this position. (i.e. match all other amino acids.)
-- `r\{m,n\}`` -- match m to n repetitions of the character r, where m and n are digits. (Note that each digit must be preceded by a \ for Sequery, since digits without the \ result in wildcard matching). Example: 3 to 7 residues of any kind: `.\{\3,\7\}`; r can be upper-case (exact match) or lower-case (substituted match).
+- `r\{m,n\}` -- match m to n repetitions of the character r, where m and n are digits. (Note that each digit must be preceded by a \ for Sequery, since digits without the \ result in wildcard matching). Example: 3 to 7 residues of any kind: `.\{\3,\7\}`; r can be upper-case (exact match) or lower-case (substituted match).
 
 **Query Examples:**
 
